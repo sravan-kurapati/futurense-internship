@@ -1,0 +1,1001 @@
+Unnamed: 0,CustomerID,Age,Gender,Location,ProductCategory,PurchaseDate,PurchaseAmount,PaymentMethod,Quantity,DiscountPercentage,IsReturned,Rating,IsPromotion,CustomerSegment,ShippingDuration,Region,IngestionTimestamp,Source,Month
+0,1,56,Male,Suburb,Clothing,01-01-2022,-100,Debit Card,5,0.300396075,FALSE,2,FALSE,New,2,South,52:10.3,System A,1
+1,2,46,Female,Rural,Home Appliances,02-01-2022,999999,Cash,5,0.350432849,FALSE,3,FALSE,Returning,4,East,52:10.3,System A,1
+2,3,,Female,Suburb,Home Appliances,03-01-2022,955.5640552,Debit Card,8,0.142602901,FALSE,5,FALSE,Returning,5,South,52:10.3,System A,1
+3,4,60,Female,Suburb,Electronics,04-01-2022,527.3508333,Cash,9,0.31538521,FALSE,4,FALSE,New,,West,52:10.3,System A,1
+4,10,25,Male,Suburb,Clothing,10-01-2022,306.5700212,Credit Card,9,0.227824775,FALSE,5,FALSE,Returning,5,North,52:10.3,System A,1
+5,10,38,Male,Suburb,Home Appliances,10-01-2022,86.09345452,Credit Card,6,0.24100867,FALSE,4,FALSE,Returning,1,East,52:10.3,System A,1
+6,7,56,Male,City,Home Appliances,07-01-2022,505.6180254,Cash,6,0.37888828,FALSE,4,FALSE,New,2,South,52:10.3,System A,1
+7,8,36,Male,City,Electronics,08-01-2022,796.570389,Cash,9,0.140959178,FALSE,1,FALSE,New,4,East,52:10.3,System A,1
+8,9,40,Male,Rural,Electronics,09-01-2022,710.0156125,Cash,4,0.159019806,TRUE,2,FALSE,New,1,South,52:10.3,System A,1
+9,10,28,Male,City,Home Appliances,10-01-2022,59.72375135,Debit Card,6,0.462320896,FALSE,5,FALSE,New,5,East,52:10.3,System A,1
+10,11,28,Male,City,Clothing,11-01-2022,82.17281701,Credit Card,4,0.028112147,TRUE,4,FALSE,New,5,South,52:10.3,System A,1
+11,12,41,Male,Rural,Clothing,12-01-2022,408.8445498,Cash,1,0.242817149,FALSE,5,TRUE,Returning,4,North,52:10.3,System A,1
+12,13,53,Female,Rural,Electronics,13-01-2022,302.3375891,Debit Card,7,0.4564004,FALSE,5,FALSE,Returning,1,South,52:10.3,System A,1
+13,14,57,Female,Rural,Electronics,14-01-2022,240.0604798,Credit Card,6,0.305181504,FALSE,4,TRUE,Returning,7,West,52:10.3,System A,1
+14,15,41,Male,City,Home Appliances,15-01-2022,288.1944539,Debit Card,9,0.273203537,FALSE,3,FALSE,New,6,East,52:10.3,System A,1
+15,16,20,Male,City,Electronics,16-01-2022,805.4479159,Credit Card,7,0.12487209,FALSE,2,TRUE,New,3,East,52:10.3,System A,1
+16,17,39,Female,Rural,Home Appliances,17-01-2022,929.9357731,Debit Card,7,0.171637745,FALSE,2,FALSE,Returning,4,West,52:10.3,System A,1
+17,18,19,Male,Suburb,Clothing,18-01-2022,411.0516676,Credit Card,2,0.426024208,FALSE,1,FALSE,New,5,West,52:10.3,System A,1
+18,19,41,Male,Rural,Clothing,19-01-2022,907.0498921,Credit Card,9,0.279609066,FALSE,1,FALSE,New,2,North,52:10.3,System A,1
+19,20,61,Male,Suburb,Home Appliances,20-01-2022,328.2807442,Debit Card,9,0.257371097,FALSE,1,FALSE,Returning,1,East,52:10.3,System A,1
+20,21,47,Female,Suburb,Electronics,21-01-2022,481.6726165,Cash,6,0.049789857,FALSE,2,FALSE,New,6,North,52:10.3,System A,1
+21,22,55,Female,Rural,Clothing,22-01-2022,233.7687078,Credit Card,3,0.008014078,TRUE,3,FALSE,Returning,3,East,52:10.3,System A,1
+22,23,19,Female,Rural,Electronics,23-01-2022,644.0712818,Cash,1,0.481842594,TRUE,2,FALSE,New,2,East,52:10.3,System A,1
+23,24,38,Female,Rural,Clothing,24-01-2022,979.191304,Debit Card,4,0.188493084,FALSE,2,FALSE,Returning,1,North,52:10.3,System A,1
+24,25,50,Female,City,Home Appliances,25-01-2022,607.4581651,Cash,3,0.301606531,FALSE,2,FALSE,Returning,6,East,52:10.3,System A,1
+25,26,29,Male,Suburb,Home Appliances,26-01-2022,364.2359433,Cash,1,0.039857537,FALSE,2,FALSE,Returning,4,East,52:10.3,System A,1
+26,27,39,Female,City,Home Appliances,27-01-2022,651.3392715,Cash,3,0.341557143,FALSE,3,TRUE,New,6,North,52:10.3,System A,1
+27,28,61,Male,City,Clothing,28-01-2022,131.6914717,Cash,4,0.466283354,FALSE,1,FALSE,Returning,4,South,52:10.3,System A,1
+28,29,42,Male,Rural,Electronics,29-01-2022,889.7724895,Cash,8,0.287832626,FALSE,5,FALSE,Returning,7,North,52:10.3,System A,1
+29,30,44,Female,City,Electronics,30-01-2022,508.0531113,Credit Card,9,0.063057661,FALSE,1,TRUE,Returning,1,East,52:10.3,System A,1
+30,31,59,Female,Rural,Electronics,31-01-2022,454.8562446,Credit Card,3,0.290860764,FALSE,1,FALSE,Returning,6,West,52:10.3,System A,1
+31,32,45,Male,Suburb,Clothing,01-02-2022,590.0061406,Credit Card,6,0.383173607,FALSE,5,FALSE,Returning,3,South,52:10.3,System A,2
+32,33,33,Male,Rural,Clothing,02-02-2022,628.5360242,Debit Card,5,0.203208268,FALSE,2,FALSE,New,6,West,52:10.3,System A,2
+33,34,32,Male,City,Clothing,03-02-2022,81.05804816,Cash,6,0.439918874,FALSE,3,TRUE,Returning,1,South,52:10.3,System A,2
+34,35,64,Female,City,Clothing,04-02-2022,685.791049,Credit Card,4,0.324341477,FALSE,3,FALSE,Returning,2,West,52:10.3,System A,2
+35,36,61,Female,Rural,Clothing,05-02-2022,249.5123635,Debit Card,6,0.449624459,FALSE,1,TRUE,New,2,South,52:10.3,System A,2
+36,37,20,Female,Rural,Electronics,06-02-2022,716.8131062,Credit Card,7,0.311752656,FALSE,5,TRUE,New,6,North,52:10.3,System A,2
+37,38,54,Female,City,Clothing,07-02-2022,824.3094464,Credit Card,9,0.065643986,FALSE,4,FALSE,Returning,6,South,52:10.3,System A,2
+38,39,24,Female,Suburb,Clothing,08-02-2022,805.9189225,Cash,7,0.154845856,FALSE,2,FALSE,Returning,4,South,52:10.3,System A,2
+39,40,38,Male,Suburb,Electronics,09-02-2022,556.9759577,Debit Card,6,0.100897474,FALSE,1,FALSE,New,1,South,52:10.3,System A,2
+40,41,26,Female,Rural,Clothing,10-02-2022,524.9681934,Cash,1,0.454413249,TRUE,3,TRUE,New,4,East,52:10.3,System A,2
+41,42,56,Male,Suburb,Electronics,11-02-2022,151.4472017,Cash,2,0.380200034,TRUE,5,FALSE,New,3,West,52:10.3,System A,2
+42,43,35,Male,City,Electronics,12-02-2022,777.5926889,Credit Card,1,0.338199184,FALSE,5,TRUE,Returning,7,North,52:10.3,System A,2
+43,44,21,Male,Rural,Home Appliances,13-02-2022,278.6952866,Cash,9,0.15048316,TRUE,1,FALSE,New,2,West,52:10.3,System A,2
+44,45,42,Female,City,Home Appliances,14-02-2022,501.7284686,Debit Card,9,0.092022386,FALSE,4,FALSE,Returning,5,West,52:10.3,System A,2
+45,46,31,Female,City,Home Appliances,15-02-2022,291.431352,Cash,7,0.378225544,FALSE,3,FALSE,New,5,North,52:10.3,System A,2
+46,47,26,Female,Suburb,Home Appliances,16-02-2022,142.4900794,Cash,2,0.237078973,FALSE,1,TRUE,Returning,1,East,52:10.3,System A,2
+47,48,43,Male,Rural,Clothing,17-02-2022,633.2621199,Cash,6,0.112894776,FALSE,4,FALSE,Returning,1,South,52:10.3,System A,2
+48,49,19,Male,Rural,Home Appliances,18-02-2022,63.78871447,Credit Card,4,0.308310989,FALSE,5,FALSE,New,5,East,52:10.3,System A,2
+49,50,37,Male,Suburb,Electronics,19-02-2022,751.1587818,Debit Card,1,0.020166926,FALSE,2,TRUE,New,1,East,52:10.3,System A,2
+50,51,45,Male,City,Clothing,20-02-2022,324.4109273,Credit Card,1,0.163085127,FALSE,3,TRUE,Returning,2,South,52:10.3,System A,2
+51,52,64,Male,City,Home Appliances,21-02-2022,10.13334607,Credit Card,5,0.234278497,FALSE,3,FALSE,New,3,West,52:10.3,System A,2
+52,53,24,Male,City,Electronics,22-02-2022,516.0178478,Credit Card,2,0.073979167,FALSE,4,FALSE,New,3,South,52:10.3,System A,2
+53,54,61,Female,City,Clothing,23-02-2022,56.38338944,Credit Card,4,0.492327239,FALSE,1,FALSE,Returning,4,North,52:10.3,System A,2
+54,55,25,Female,Rural,Clothing,24-02-2022,283.4078622,Credit Card,1,0.104548682,FALSE,5,FALSE,Returning,2,South,52:10.3,System A,2
+55,56,64,Female,Rural,Home Appliances,25-02-2022,709.9067226,Debit Card,4,0.065176565,FALSE,4,FALSE,Returning,7,West,52:10.3,System A,2
+56,57,52,Female,Suburb,Clothing,26-02-2022,72.06272541,Cash,6,0.101767437,TRUE,2,FALSE,New,1,East,52:10.3,System A,2
+57,58,31,Male,Suburb,Electronics,27-02-2022,840.9451074,Credit Card,4,0.384530567,FALSE,2,TRUE,New,1,East,52:10.3,System A,2
+58,59,34,Male,Rural,Clothing,28-02-2022,13.78172343,Credit Card,1,0.21275283,TRUE,2,TRUE,New,7,South,52:10.3,System A,2
+59,60,53,Female,Rural,Electronics,01-03-2022,254.3556305,Debit Card,7,0.28270797,FALSE,4,FALSE,Returning,4,North,52:10.3,System A,3
+60,61,57,Male,City,Clothing,02-03-2022,743.4950156,Debit Card,2,0.010504578,TRUE,5,FALSE,Returning,4,West,52:10.3,System A,3
+61,62,21,Female,City,Home Appliances,03-03-2022,323.1074482,Cash,9,0.017215654,FALSE,3,FALSE,Returning,1,East,52:10.3,System A,3
+62,63,19,Female,Suburb,Electronics,04-03-2022,110.8734642,Debit Card,3,0.222912775,FALSE,1,FALSE,New,1,South,52:10.3,System A,3
+63,64,23,Female,Rural,Clothing,05-03-2022,366.6315796,Cash,8,0.408327622,FALSE,3,FALSE,Returning,7,North,52:10.3,System A,3
+64,65,59,Male,Suburb,Clothing,06-03-2022,277.6893535,Credit Card,8,0.442619439,FALSE,5,FALSE,New,2,North,52:10.3,System A,3
+65,66,21,Female,Rural,Clothing,07-03-2022,844.2847831,Credit Card,3,0.043353284,FALSE,3,TRUE,New,7,East,52:10.3,System A,3
+66,67,46,Female,City,Electronics,08-03-2022,320.2144384,Cash,4,0.269181551,FALSE,4,FALSE,Returning,4,East,52:10.3,System A,3
+67,68,35,Female,Suburb,Electronics,09-03-2022,791.0431471,Debit Card,2,0.456614843,FALSE,2,FALSE,New,7,West,52:10.3,System A,3
+68,69,43,Male,Suburb,Electronics,10-03-2022,892.9534234,Cash,4,0.193986377,FALSE,5,TRUE,Returning,7,North,52:10.3,System A,3
+69,70,61,Male,Rural,Home Appliances,11-03-2022,439.4792454,Debit Card,9,0.414782916,FALSE,5,FALSE,Returning,7,West,52:10.3,System A,3
+70,71,51,Female,City,Home Appliances,12-03-2022,910.8437124,Credit Card,2,0.066847827,FALSE,3,FALSE,Returning,2,North,52:10.3,System A,3
+71,72,27,Male,Suburb,Electronics,13-03-2022,383.5448734,Debit Card,3,0.467697245,FALSE,4,TRUE,Returning,6,North,52:10.3,System A,3
+72,73,53,Male,City,Clothing,14-03-2022,964.4376323,Cash,4,0.375711659,TRUE,3,TRUE,Returning,1,South,52:10.3,System A,3
+73,74,31,Male,Suburb,Home Appliances,15-03-2022,98.39662928,Cash,5,0.470667196,FALSE,3,FALSE,Returning,5,East,52:10.3,System A,3
+74,75,48,Male,City,Electronics,16-03-2022,690.1490738,Credit Card,1,0.338308617,FALSE,5,FALSE,New,7,North,52:10.3,System A,3
+75,76,32,Male,Rural,Clothing,17-03-2022,498.8759001,Debit Card,7,0.181701966,FALSE,3,FALSE,Returning,5,West,52:10.3,System A,3
+76,77,25,Male,Suburb,Home Appliances,18-03-2022,393.7723174,Debit Card,7,0.469090586,FALSE,2,TRUE,Returning,6,East,52:10.3,System A,3
+77,78,31,Male,Suburb,Clothing,19-03-2022,636.38476,Debit Card,9,0.137783388,FALSE,3,TRUE,Returning,1,West,52:10.3,System A,3
+78,79,40,Male,City,Clothing,20-03-2022,706.8185207,Credit Card,4,0.166086261,FALSE,2,TRUE,Returning,4,East,52:10.3,System A,3
+79,80,57,Male,City,Clothing,21-03-2022,14.31963695,Debit Card,6,0.350404209,FALSE,5,TRUE,New,5,East,52:10.3,System A,3
+80,81,38,Male,Suburb,Clothing,22-03-2022,175.2835579,Cash,2,0.38265815,FALSE,4,TRUE,New,4,North,52:10.3,System A,3
+81,82,33,Female,Rural,Home Appliances,23-03-2022,715.9155901,Debit Card,4,0.464701742,FALSE,2,FALSE,New,5,South,52:10.3,System A,3
+82,83,62,Female,City,Home Appliances,24-03-2022,669.7215594,Credit Card,2,0.102401205,FALSE,4,FALSE,Returning,4,North,52:10.3,System A,3
+83,84,35,Male,City,Home Appliances,25-03-2022,966.3870301,Debit Card,5,0.398999018,FALSE,4,FALSE,Returning,7,East,52:10.3,System A,3
+84,85,64,Female,City,Electronics,26-03-2022,763.4274123,Debit Card,7,0.369273027,FALSE,2,TRUE,Returning,5,North,52:10.3,System A,3
+85,86,41,Female,Suburb,Home Appliances,27-03-2022,951.2649807,Cash,1,0.031897278,FALSE,5,TRUE,New,4,North,52:10.3,System A,3
+86,87,43,Male,Suburb,Clothing,28-03-2022,705.5150965,Debit Card,7,0.193611571,FALSE,1,FALSE,New,6,East,52:10.3,System A,3
+87,88,42,Male,Suburb,Home Appliances,29-03-2022,305.0716866,Cash,6,0.141382729,TRUE,4,FALSE,Returning,2,East,52:10.3,System A,3
+88,89,62,Male,Suburb,Clothing,30-03-2022,114.311273,Cash,6,0.152245212,FALSE,4,FALSE,Returning,4,North,52:10.3,System A,3
+89,90,58,Female,Rural,Electronics,31-03-2022,784.0056247,Credit Card,8,0.49147344,FALSE,5,FALSE,Returning,2,North,52:10.3,System A,3
+90,91,46,Female,Rural,Clothing,01-04-2022,647.7077293,Cash,8,0.321388707,FALSE,5,FALSE,Returning,2,North,52:10.3,System A,4
+91,92,32,Male,Suburb,Clothing,02-04-2022,57.70415227,Cash,6,0.358838079,FALSE,3,FALSE,New,1,West,52:10.3,System A,4
+92,93,62,Male,Rural,Clothing,03-04-2022,366.4499612,Credit Card,3,0.488308819,TRUE,5,FALSE,Returning,7,North,52:10.3,System A,4
+93,94,18,Male,City,Electronics,04-04-2022,957.2318173,Cash,5,0.188600891,FALSE,4,FALSE,Returning,6,West,52:10.3,System A,4
+94,95,42,Female,City,Home Appliances,05-04-2022,505.3971343,Credit Card,2,0.400920084,FALSE,2,TRUE,Returning,2,South,52:10.3,System A,4
+95,96,24,Female,City,Home Appliances,06-04-2022,438.4018447,Debit Card,5,0.217265482,FALSE,1,FALSE,Returning,3,West,52:10.3,System A,4
+96,97,26,Female,Suburb,Electronics,07-04-2022,463.1226091,Credit Card,9,0.434766836,FALSE,3,TRUE,Returning,7,North,52:10.3,System A,4
+97,98,41,Female,City,Clothing,08-04-2022,216.7938968,Cash,1,0.090328771,TRUE,2,FALSE,Returning,2,South,52:10.3,System A,4
+98,99,18,Male,Rural,Home Appliances,09-04-2022,375.0200992,Credit Card,5,0.473843089,FALSE,1,FALSE,Returning,4,West,52:10.3,System A,4
+99,100,61,Male,Suburb,Electronics,10-04-2022,376.1151234,Cash,6,0.109385854,FALSE,1,FALSE,Returning,2,West,52:10.3,System A,4
+100,101,25,Male,Rural,Home Appliances,11-04-2022,61.83146999,Debit Card,7,0.163110253,FALSE,1,FALSE,Returning,4,East,52:10.3,System A,4
+101,102,41,Male,City,Electronics,12-04-2022,769.8919522,Credit Card,9,0.378096117,FALSE,2,FALSE,New,4,South,52:10.3,System A,4
+102,103,28,Female,City,Clothing,13-04-2022,422.3393876,Debit Card,6,0.196877571,FALSE,3,FALSE,Returning,3,East,52:10.3,System A,4
+103,104,34,Female,City,Home Appliances,14-04-2022,823.9580879,Cash,5,0.304105688,FALSE,3,TRUE,Returning,2,South,52:10.3,System A,4
+104,105,25,Male,Suburb,Electronics,15-04-2022,851.8445211,Cash,7,0.222286751,FALSE,1,TRUE,New,2,West,52:10.3,System A,4
+105,106,52,Male,Rural,Home Appliances,16-04-2022,219.8741142,Debit Card,1,0.371184969,FALSE,2,FALSE,Returning,5,East,52:10.3,System A,4
+106,107,52,Female,Suburb,Home Appliances,17-04-2022,660.7799473,Credit Card,5,0.114165626,FALSE,1,FALSE,New,7,North,52:10.3,System A,4
+107,108,50,Male,Suburb,Home Appliances,18-04-2022,477.5589861,Credit Card,2,0.029228994,FALSE,5,FALSE,New,5,West,52:10.3,System A,4
+108,109,22,Female,City,Home Appliances,19-04-2022,881.3551705,Cash,4,0.149964699,FALSE,3,FALSE,New,1,South,52:10.3,System A,4
+109,110,59,Male,Suburb,Electronics,20-04-2022,223.5832724,Debit Card,7,0.237154332,FALSE,4,FALSE,Returning,4,South,52:10.3,System A,4
+110,111,56,Male,Suburb,Clothing,21-04-2022,681.0350683,Debit Card,5,0.084010026,FALSE,1,TRUE,Returning,3,East,52:10.3,System A,4
+111,112,58,Male,City,Electronics,22-04-2022,611.674601,Credit Card,6,0.177398645,FALSE,5,FALSE,Returning,5,East,52:10.3,System A,4
+112,113,45,Male,Suburb,Electronics,23-04-2022,302.3484628,Credit Card,2,0.199991509,FALSE,3,TRUE,Returning,2,South,52:10.3,System A,4
+113,114,24,Male,City,Electronics,24-04-2022,145.2348946,Credit Card,3,0.028695922,FALSE,2,FALSE,Returning,1,West,52:10.3,System A,4
+114,115,26,Male,City,Clothing,25-04-2022,655.1233629,Debit Card,7,0.291653624,FALSE,3,TRUE,New,3,East,52:10.3,System A,4
+115,116,25,Male,City,Home Appliances,26-04-2022,741.2114836,Credit Card,2,0.442171714,FALSE,2,FALSE,New,6,North,52:10.3,System A,4
+116,117,29,Female,City,Home Appliances,27-04-2022,322.4710703,Credit Card,6,0.075871456,FALSE,2,TRUE,Returning,2,South,52:10.3,System A,4
+117,118,51,Female,Suburb,Home Appliances,28-04-2022,648.384278,Cash,5,0.298904007,FALSE,1,FALSE,Returning,2,North,52:10.3,System A,4
+118,119,50,Female,City,Clothing,29-04-2022,401.1795985,Credit Card,1,0.332369602,FALSE,1,FALSE,Returning,6,South,52:10.3,System A,4
+119,120,40,Female,City,Home Appliances,30-04-2022,716.0748144,Credit Card,4,0.20966734,FALSE,3,FALSE,Returning,4,North,52:10.3,System A,4
+120,121,41,Female,Suburb,Clothing,01-05-2022,207.2231221,Debit Card,2,0.350548794,FALSE,5,FALSE,Returning,4,West,52:10.3,System A,5
+121,122,54,Male,Suburb,Home Appliances,02-05-2022,891.3128526,Debit Card,4,0.205365772,FALSE,3,FALSE,New,5,South,52:10.3,System A,5
+122,123,52,Male,Rural,Home Appliances,03-05-2022,294.5355005,Cash,1,0.252318644,FALSE,4,FALSE,Returning,5,West,52:10.3,System A,5
+123,124,61,Female,Suburb,Electronics,04-05-2022,374.1081279,Credit Card,2,0.003676522,FALSE,2,FALSE,Returning,2,East,52:10.3,System A,5
+124,125,57,Male,Suburb,Clothing,05-05-2022,67.51103256,Cash,8,0.345860057,FALSE,2,TRUE,Returning,7,South,52:10.3,System A,5
+125,126,39,Female,Rural,Electronics,06-05-2022,120.3970902,Debit Card,6,0.330671339,FALSE,1,FALSE,New,2,West,52:10.3,System A,5
+126,127,44,Female,Suburb,Electronics,07-05-2022,520.7032837,Cash,2,0.019200439,FALSE,5,TRUE,Returning,5,North,52:10.3,System A,5
+127,128,52,Male,Suburb,Electronics,08-05-2022,274.91675,Debit Card,6,0.184125054,FALSE,1,TRUE,Returning,6,West,52:10.3,System A,5
+128,129,18,Male,Suburb,Clothing,09-05-2022,837.1254235,Cash,9,0.48951592,FALSE,4,FALSE,New,5,South,52:10.3,System A,5
+129,130,52,Male,Suburb,Clothing,10-05-2022,24.54645477,Cash,7,0.210368281,TRUE,3,FALSE,Returning,2,West,52:10.3,System A,5
+130,131,54,Female,Rural,Home Appliances,11-05-2022,385.3031082,Credit Card,9,0.250972703,FALSE,3,FALSE,New,3,North,52:10.3,System A,5
+131,132,64,Male,Suburb,Electronics,12-05-2022,343.9720913,Cash,5,0.454965079,FALSE,5,FALSE,Returning,2,North,52:10.3,System A,5
+132,133,31,Female,Suburb,Home Appliances,13-05-2022,29.13435461,Credit Card,7,0.358630938,FALSE,1,TRUE,Returning,3,North,52:10.3,System A,5
+133,134,20,Female,Rural,Electronics,14-05-2022,133.124715,Credit Card,7,0.291035066,FALSE,1,TRUE,Returning,3,East,52:10.3,System A,5
+134,135,18,Female,City,Clothing,15-05-2022,419.5062482,Credit Card,3,0.398902341,FALSE,4,FALSE,New,2,South,52:10.3,System A,5
+135,136,22,Male,Rural,Clothing,16-05-2022,497.9359386,Credit Card,7,0.432183133,FALSE,3,FALSE,New,7,North,52:10.3,System A,5
+136,137,43,Male,City,Clothing,17-05-2022,410.2468498,Cash,1,0.228444036,FALSE,1,TRUE,New,7,East,52:10.3,System A,5
+137,138,31,Female,Rural,Electronics,18-05-2022,535.6283016,Debit Card,9,0.237554182,TRUE,5,FALSE,New,1,North,52:10.3,System A,5
+138,139,56,Male,Rural,Clothing,19-05-2022,599.1803582,Debit Card,6,0.193025468,FALSE,3,FALSE,New,5,West,52:10.3,System A,5
+139,140,44,Male,Suburb,Electronics,20-05-2022,19.82458292,Debit Card,5,0.48335307,FALSE,4,FALSE,Returning,7,South,52:10.3,System A,5
+140,141,26,Male,City,Home Appliances,21-05-2022,469.4542079,Cash,7,0.348583127,FALSE,5,FALSE,New,4,West,52:10.3,System A,5
+141,142,32,Female,Suburb,Electronics,22-05-2022,963.8642485,Credit Card,5,0.041611533,TRUE,2,FALSE,Returning,2,East,52:10.3,System A,5
+142,143,32,Female,City,Home Appliances,23-05-2022,523.8419573,Debit Card,5,0.431479812,FALSE,4,FALSE,New,3,West,52:10.3,System A,5
+143,144,43,Male,Rural,Electronics,24-05-2022,680.7668448,Cash,7,0.24027997,FALSE,5,TRUE,Returning,2,West,52:10.3,System A,5
+144,145,59,Female,Rural,Home Appliances,25-05-2022,318.7452193,Credit Card,7,0.034376953,FALSE,1,FALSE,Returning,5,North,52:10.3,System A,5
+145,146,30,Male,City,Clothing,26-05-2022,776.2514644,Debit Card,3,0.274858628,FALSE,2,FALSE,Returning,6,West,52:10.3,System A,5
+146,147,49,Male,Suburb,Home Appliances,27-05-2022,775.1922671,Credit Card,3,0.208582139,FALSE,4,TRUE,Returning,7,North,52:10.3,System A,5
+147,148,56,Male,Suburb,Clothing,28-05-2022,526.0830872,Debit Card,3,0.438874702,FALSE,1,FALSE,New,7,North,52:10.3,System A,5
+148,149,49,Male,Suburb,Clothing,29-05-2022,976.253685,Debit Card,6,0.101997302,FALSE,2,FALSE,Returning,7,South,52:10.3,System A,5
+149,150,21,Female,Suburb,Home Appliances,30-05-2022,134.2947126,Debit Card,6,0.413232305,FALSE,3,FALSE,Returning,3,East,52:10.3,System A,5
+150,151,47,Female,Rural,Electronics,31-05-2022,26.77818824,Credit Card,3,0.278844346,FALSE,1,TRUE,Returning,4,East,52:10.3,System A,5
+151,152,54,Female,Rural,Electronics,01-06-2022,772.4566296,Cash,3,0.027305152,FALSE,5,FALSE,Returning,4,East,52:10.3,System A,6
+152,153,40,Male,Rural,Electronics,02-06-2022,809.083982,Credit Card,8,0.485922651,FALSE,4,FALSE,Returning,7,North,52:10.3,System A,6
+153,154,56,Male,Rural,Electronics,03-06-2022,129.0051568,Debit Card,8,0.256307622,FALSE,2,TRUE,Returning,4,East,52:10.3,System A,6
+154,155,62,Male,Rural,Electronics,04-06-2022,272.9270046,Credit Card,7,0.145438427,FALSE,1,FALSE,Returning,6,North,52:10.3,System A,6
+155,156,32,Female,Suburb,Clothing,05-06-2022,27.37683973,Cash,4,0.234703421,TRUE,3,FALSE,Returning,7,South,52:10.3,System A,6
+156,157,60,Male,Suburb,Electronics,06-06-2022,300.3755247,Credit Card,4,0.428928892,FALSE,4,FALSE,Returning,1,East,52:10.3,System A,6
+157,158,46,Female,Suburb,Clothing,07-06-2022,775.4104552,Cash,3,0.152451562,FALSE,4,TRUE,New,3,North,52:10.3,System A,6
+158,159,53,Female,Suburb,Clothing,08-06-2022,522.7809224,Cash,5,0.096338198,FALSE,1,FALSE,New,6,East,52:10.3,System A,6
+159,160,30,Female,Rural,Clothing,09-06-2022,354.6146372,Credit Card,3,0.064535623,FALSE,3,FALSE,Returning,3,East,52:10.3,System A,6
+160,161,49,Female,Rural,Home Appliances,10-06-2022,378.021902,Debit Card,8,0.148929699,TRUE,2,FALSE,Returning,7,South,52:10.3,System A,6
+161,162,24,Female,Rural,Home Appliances,11-06-2022,11.34008946,Cash,7,0.390024044,FALSE,1,FALSE,New,6,West,52:10.3,System A,6
+162,163,39,Female,City,Clothing,12-06-2022,306.8025223,Credit Card,3,0.235813183,FALSE,2,FALSE,New,7,East,52:10.3,System A,6
+163,164,45,Male,Suburb,Home Appliances,13-06-2022,649.9941542,Cash,9,0.113740802,FALSE,4,TRUE,Returning,6,South,52:10.3,System A,6
+164,165,19,Male,Suburb,Electronics,14-06-2022,974.4524994,Debit Card,5,0.0830925,FALSE,2,FALSE,Returning,7,East,52:10.3,System A,6
+165,166,59,Female,Rural,Electronics,15-06-2022,848.5902187,Credit Card,9,0.166364738,FALSE,3,FALSE,New,1,East,52:10.3,System A,6
+166,167,62,Female,Suburb,Clothing,16-06-2022,33.359015,Credit Card,7,0.469962186,FALSE,5,FALSE,Returning,3,East,52:10.3,System A,6
+167,168,23,Male,Suburb,Electronics,17-06-2022,899.5749986,Credit Card,7,0.171513356,FALSE,3,TRUE,Returning,6,East,52:10.3,System A,6
+168,169,45,Female,Rural,Clothing,18-06-2022,785.3664292,Debit Card,6,0.494062038,FALSE,2,FALSE,Returning,1,West,52:10.3,System A,6
+169,170,45,Female,City,Clothing,19-06-2022,782.5723623,Cash,2,0.242615228,FALSE,1,FALSE,Returning,2,West,52:10.3,System A,6
+170,171,61,Male,City,Electronics,20-06-2022,463.4158014,Credit Card,9,0.089581959,FALSE,4,FALSE,Returning,7,East,52:10.3,System A,6
+171,172,61,Female,City,Home Appliances,21-06-2022,404.02524,Cash,6,0.445570046,FALSE,5,TRUE,New,5,East,52:10.3,System A,6
+172,173,37,Female,Rural,Electronics,22-06-2022,309.8865715,Cash,8,0.230177687,FALSE,1,TRUE,Returning,6,South,52:10.3,System A,6
+173,174,47,Female,Suburb,Electronics,23-06-2022,75.03791036,Debit Card,1,0.354835672,FALSE,1,TRUE,New,4,South,52:10.3,System A,6
+174,175,28,Male,Rural,Clothing,24-06-2022,235.9530099,Credit Card,5,0.491855792,FALSE,3,FALSE,Returning,1,North,52:10.3,System A,6
+175,176,45,Male,Rural,Clothing,25-06-2022,254.1375986,Cash,1,0.025087675,FALSE,2,TRUE,New,1,West,52:10.3,System A,6
+176,177,42,Male,Suburb,Clothing,26-06-2022,489.236299,Credit Card,8,0.04834728,FALSE,3,TRUE,Returning,6,East,52:10.3,System A,6
+177,178,56,Female,City,Clothing,27-06-2022,749.9699625,Credit Card,8,0.360228371,FALSE,2,TRUE,New,1,West,52:10.3,System A,6
+178,179,50,Female,City,Home Appliances,28-06-2022,479.0717301,Debit Card,1,0.140912502,FALSE,3,FALSE,Returning,2,South,52:10.3,System A,6
+179,180,18,Male,Rural,Home Appliances,29-06-2022,67.26600495,Credit Card,9,0.092150698,FALSE,1,TRUE,New,1,West,52:10.3,System A,6
+180,181,44,Female,City,Home Appliances,30-06-2022,958.211903,Credit Card,2,0.01968094,FALSE,4,FALSE,Returning,5,West,52:10.3,System A,6
+181,182,30,Female,Rural,Clothing,01-07-2022,943.2970759,Cash,9,0.010923356,FALSE,2,TRUE,Returning,5,East,52:10.3,System A,7
+182,183,58,Female,Rural,Clothing,02-07-2022,787.3376477,Debit Card,1,0.387242802,FALSE,5,FALSE,Returning,7,East,52:10.3,System A,7
+183,184,20,Female,Suburb,Clothing,03-07-2022,991.4146225,Credit Card,9,0.067216714,FALSE,5,FALSE,Returning,7,South,52:10.3,System A,7
+184,185,56,Female,Suburb,Home Appliances,04-07-2022,549.0375095,Cash,4,0.233860308,FALSE,1,FALSE,New,4,East,52:10.3,System A,7
+185,186,23,Male,Suburb,Clothing,05-07-2022,963.1406668,Debit Card,9,0.302948408,TRUE,3,FALSE,Returning,2,South,52:10.3,System A,7
+186,187,25,Female,Rural,Electronics,06-07-2022,84.84899021,Debit Card,7,0.2141759,FALSE,3,FALSE,Returning,5,South,52:10.3,System A,7
+187,188,44,Male,Suburb,Electronics,07-07-2022,372.0239408,Cash,6,0.013553326,FALSE,1,FALSE,Returning,6,North,52:10.3,System A,7
+188,189,26,Female,City,Clothing,08-07-2022,233.1274553,Cash,5,0.391750751,FALSE,5,FALSE,Returning,3,North,52:10.3,System A,7
+189,190,54,Male,City,Electronics,09-07-2022,203.8747533,Cash,9,0.005256612,FALSE,5,FALSE,Returning,3,North,52:10.3,System A,7
+190,191,50,Female,Rural,Electronics,10-07-2022,149.3949194,Cash,2,0.380944947,FALSE,3,FALSE,Returning,3,West,52:10.3,System A,7
+191,192,59,Male,Rural,Home Appliances,11-07-2022,626.1895052,Cash,2,0.446652247,FALSE,2,FALSE,Returning,7,North,52:10.3,System A,7
+192,193,61,Female,Suburb,Clothing,12-07-2022,783.5086372,Credit Card,9,0.216419961,FALSE,4,FALSE,Returning,6,East,52:10.3,System A,7
+193,194,41,Male,Rural,Clothing,13-07-2022,582.5154154,Credit Card,3,0.267771237,FALSE,2,FALSE,Returning,1,East,52:10.3,System A,7
+194,195,32,Female,Rural,Home Appliances,14-07-2022,155.4930825,Debit Card,8,0.238491696,FALSE,5,FALSE,Returning,6,North,52:10.3,System A,7
+195,196,49,Male,City,Electronics,15-07-2022,813.0125322,Credit Card,9,0.194604309,FALSE,2,TRUE,New,1,West,52:10.3,System A,7
+196,197,49,Female,City,Electronics,16-07-2022,639.5951601,Credit Card,8,0.443712268,FALSE,4,TRUE,New,3,South,52:10.3,System A,7
+197,198,41,Male,Suburb,Clothing,17-07-2022,394.2840491,Credit Card,4,0.446966755,FALSE,2,FALSE,New,4,West,52:10.3,System A,7
+198,199,58,Male,Rural,Electronics,18-07-2022,677.3889926,Cash,1,0.167908182,FALSE,2,TRUE,New,4,West,52:10.3,System A,7
+199,200,29,Female,Rural,Home Appliances,19-07-2022,267.3059295,Debit Card,4,0.307534877,FALSE,2,FALSE,Returning,1,South,52:10.3,System A,7
+200,201,56,Female,City,Home Appliances,20-07-2022,351.7402864,Debit Card,9,0.463453781,FALSE,2,TRUE,Returning,3,South,52:10.3,System A,7
+201,202,19,Male,Rural,Clothing,21-07-2022,918.3109847,Debit Card,2,0.481029249,FALSE,1,FALSE,New,6,South,52:10.3,System A,7
+202,203,20,Female,City,Home Appliances,22-07-2022,297.5994606,Debit Card,3,0.25447952,FALSE,5,FALSE,Returning,4,East,52:10.3,System A,7
+203,204,54,Male,Suburb,Home Appliances,23-07-2022,475.2883855,Credit Card,8,0.226412403,FALSE,4,FALSE,Returning,1,South,52:10.3,System A,7
+204,205,34,Male,City,Clothing,24-07-2022,891.239726,Credit Card,6,0.139347158,FALSE,5,FALSE,Returning,6,South,52:10.3,System A,7
+205,206,19,Male,Rural,Home Appliances,25-07-2022,710.6441368,Cash,8,0.479435937,FALSE,1,TRUE,Returning,3,West,52:10.3,System A,7
+206,207,19,Female,Suburb,Home Appliances,26-07-2022,71.5811939,Debit Card,7,0.071407152,FALSE,1,TRUE,Returning,2,West,52:10.3,System A,7
+207,208,45,Male,City,Home Appliances,27-07-2022,155.8300138,Credit Card,5,0.289914788,TRUE,1,FALSE,Returning,3,North,52:10.3,System A,7
+208,209,40,Male,City,Electronics,28-07-2022,17.76317486,Credit Card,9,0.141275134,FALSE,1,FALSE,New,7,West,52:10.3,System A,7
+209,210,54,Female,Suburb,Clothing,29-07-2022,634.6125723,Cash,4,0.139504145,FALSE,2,FALSE,New,3,South,52:10.3,System A,7
+210,211,49,Female,Suburb,Clothing,30-07-2022,453.1966912,Cash,6,0.202484294,FALSE,5,FALSE,New,6,East,52:10.3,System A,7
+211,212,50,Female,City,Clothing,31-07-2022,142.9321024,Cash,2,0.499396468,FALSE,3,FALSE,New,6,West,52:10.3,System A,7
+212,213,18,Female,Rural,Electronics,01-08-2022,958.3547798,Credit Card,2,0.027483153,TRUE,4,FALSE,Returning,5,West,52:10.3,System A,8
+213,214,36,Male,City,Electronics,02-08-2022,534.3631267,Credit Card,2,0.289270909,FALSE,1,FALSE,Returning,5,South,52:10.3,System A,8
+214,215,19,Male,Suburb,Clothing,03-08-2022,249.4743612,Cash,7,0.041286079,FALSE,5,TRUE,Returning,6,West,52:10.3,System A,8
+215,216,61,Male,City,Electronics,04-08-2022,505.5975354,Debit Card,2,0.077260415,FALSE,1,FALSE,Returning,6,West,52:10.3,System A,8
+216,217,43,Male,Suburb,Clothing,05-08-2022,682.8241294,Cash,2,0.219781471,FALSE,1,FALSE,New,2,South,52:10.3,System A,8
+217,218,49,Female,Suburb,Electronics,06-08-2022,85.47682579,Cash,9,0.255230066,TRUE,1,TRUE,Returning,2,West,52:10.3,System A,8
+218,219,23,Male,Rural,Home Appliances,07-08-2022,281.9567769,Cash,7,0.129396204,TRUE,1,FALSE,Returning,3,East,52:10.3,System A,8
+219,220,49,Male,Suburb,Home Appliances,08-08-2022,808.895836,Cash,3,0.158228565,FALSE,1,TRUE,New,7,North,52:10.3,System A,8
+220,221,21,Female,Suburb,Clothing,09-08-2022,465.0682217,Credit Card,3,0.04348351,FALSE,4,FALSE,New,4,West,52:10.3,System A,8
+221,222,28,Male,Rural,Electronics,10-08-2022,551.1113706,Debit Card,7,0.151609892,FALSE,5,FALSE,Returning,7,East,52:10.3,System A,8
+222,223,34,Male,Suburb,Electronics,11-08-2022,438.4878422,Cash,5,0.48327922,FALSE,1,FALSE,Returning,2,West,52:10.3,System A,8
+223,224,55,Male,Rural,Home Appliances,12-08-2022,53.46094322,Debit Card,6,0.472353691,FALSE,1,FALSE,Returning,3,North,52:10.3,System A,8
+224,225,41,Male,Rural,Home Appliances,13-08-2022,174.092282,Debit Card,8,0.167439145,FALSE,1,FALSE,Returning,7,South,52:10.3,System A,8
+225,226,22,Male,Suburb,Electronics,14-08-2022,451.0862224,Debit Card,9,0.285426968,FALSE,1,FALSE,Returning,1,North,52:10.3,System A,8
+226,227,51,Male,Suburb,Electronics,15-08-2022,217.0936108,Cash,1,0.454797696,FALSE,2,FALSE,New,5,West,52:10.3,System A,8
+227,228,23,Female,City,Electronics,16-08-2022,59.47923837,Credit Card,3,0.003091911,FALSE,2,FALSE,New,7,North,52:10.3,System A,8
+228,229,39,Female,Rural,Electronics,17-08-2022,845.2131674,Cash,7,0.405341785,FALSE,3,FALSE,Returning,4,North,52:10.3,System A,8
+229,230,28,Male,City,Electronics,18-08-2022,981.3806039,Debit Card,6,0.474184776,FALSE,1,FALSE,Returning,3,South,52:10.3,System A,8
+230,231,33,Male,Suburb,Electronics,19-08-2022,795.2114453,Debit Card,7,0.045662867,FALSE,3,TRUE,Returning,7,West,52:10.3,System A,8
+231,232,50,Female,City,Clothing,20-08-2022,855.2470725,Credit Card,8,0.080723843,FALSE,4,FALSE,Returning,6,North,52:10.3,System A,8
+232,233,26,Male,Rural,Electronics,21-08-2022,249.557359,Cash,6,0.480373151,FALSE,3,TRUE,Returning,1,North,52:10.3,System A,8
+233,234,23,Male,City,Home Appliances,22-08-2022,961.0207058,Debit Card,3,0.268770072,TRUE,5,TRUE,Returning,5,South,52:10.3,System A,8
+234,235,33,Male,Rural,Clothing,23-08-2022,204.9564474,Credit Card,2,0.007098317,FALSE,2,FALSE,Returning,1,East,52:10.3,System A,8
+235,236,46,Female,Suburb,Electronics,24-08-2022,951.9155123,Debit Card,7,0.128815999,FALSE,2,TRUE,Returning,3,West,52:10.3,System A,8
+236,237,20,Male,Suburb,Home Appliances,25-08-2022,994.871101,Credit Card,1,0.224971837,FALSE,1,FALSE,New,2,East,52:10.3,System A,8
+237,238,37,Female,Rural,Clothing,26-08-2022,714.6055777,Credit Card,3,0.346454456,FALSE,1,FALSE,Returning,5,East,52:10.3,System A,8
+238,239,53,Male,Suburb,Home Appliances,27-08-2022,981.3322945,Cash,4,0.366580189,TRUE,4,FALSE,Returning,1,South,52:10.3,System A,8
+239,240,36,Female,Suburb,Electronics,28-08-2022,573.8443818,Debit Card,1,0.497710756,FALSE,4,FALSE,Returning,2,South,52:10.3,System A,8
+240,241,43,Female,Suburb,Electronics,29-08-2022,266.9463653,Cash,5,0.1437556,TRUE,5,FALSE,New,4,West,52:10.3,System A,8
+241,242,20,Male,Suburb,Electronics,30-08-2022,442.6259268,Debit Card,3,0.269110051,FALSE,1,TRUE,Returning,3,East,52:10.3,System A,8
+242,243,36,Female,Rural,Electronics,31-08-2022,597.625326,Cash,2,0.266661774,FALSE,1,FALSE,Returning,3,North,52:10.3,System A,8
+243,244,37,Male,City,Clothing,01-09-2022,82.35074641,Debit Card,3,0.20282263,FALSE,4,FALSE,Returning,5,East,52:10.3,System A,9
+244,245,49,Female,City,Clothing,02-09-2022,626.119832,Cash,8,0.084580947,FALSE,4,FALSE,Returning,1,South,52:10.3,System A,9
+245,246,24,Male,Suburb,Home Appliances,03-09-2022,981.3660584,Credit Card,6,0.488728282,FALSE,4,FALSE,New,4,North,52:10.3,System A,9
+246,247,58,Male,City,Electronics,04-09-2022,198.2065733,Debit Card,7,0.426658593,FALSE,2,FALSE,Returning,6,North,52:10.3,System A,9
+247,248,50,Female,City,Home Appliances,05-09-2022,794.6691651,Debit Card,6,0.249166514,FALSE,3,FALSE,Returning,5,South,52:10.3,System A,9
+248,249,57,Male,Suburb,Clothing,06-09-2022,908.8198058,Credit Card,6,0.301622711,TRUE,3,FALSE,Returning,6,North,52:10.3,System A,9
+249,250,56,Male,Suburb,Electronics,07-09-2022,944.2645769,Cash,3,0.113630527,FALSE,1,TRUE,New,5,East,52:10.3,System A,9
+250,251,35,Female,City,Electronics,08-09-2022,960.5342484,Debit Card,8,0.271893535,FALSE,2,FALSE,New,1,South,52:10.3,System A,9
+251,252,57,Male,Rural,Clothing,09-09-2022,526.2450423,Debit Card,7,0.347485067,FALSE,4,FALSE,Returning,4,West,52:10.3,System A,9
+252,253,18,Male,Suburb,Clothing,10-09-2022,977.5348289,Cash,7,0.257583514,FALSE,1,TRUE,Returning,1,South,52:10.3,System A,9
+253,254,28,Female,Rural,Clothing,11-09-2022,759.7371051,Credit Card,6,0.495142585,FALSE,2,FALSE,Returning,3,West,52:10.3,System A,9
+254,255,45,Female,City,Clothing,12-09-2022,170.0547219,Cash,5,0.305670828,FALSE,5,FALSE,New,6,West,52:10.3,System A,9
+255,256,42,Male,Suburb,Clothing,13-09-2022,482.1311054,Cash,8,0.185486856,FALSE,2,FALSE,Returning,2,South,52:10.3,System A,9
+256,257,40,Male,Rural,Electronics,14-09-2022,721.1478636,Cash,5,0.386076014,FALSE,1,TRUE,Returning,7,South,52:10.3,System A,9
+257,258,48,Female,Suburb,Clothing,15-09-2022,254.8669127,Debit Card,9,0.085231256,FALSE,3,FALSE,New,3,West,52:10.3,System A,9
+258,259,47,Female,City,Electronics,16-09-2022,644.2090317,Credit Card,9,0.192257907,FALSE,4,TRUE,Returning,3,West,52:10.3,System A,9
+259,260,59,Male,Rural,Electronics,17-09-2022,669.9344743,Credit Card,1,0.173479475,FALSE,5,FALSE,Returning,6,North,52:10.3,System A,9
+260,261,52,Female,City,Clothing,18-09-2022,171.0727464,Cash,6,0.215903548,FALSE,2,TRUE,Returning,5,South,52:10.3,System A,9
+261,262,24,Male,City,Clothing,19-09-2022,569.4344593,Debit Card,7,0.390889913,FALSE,1,FALSE,New,3,South,52:10.3,System A,9
+262,263,33,Male,Suburb,Electronics,20-09-2022,773.9106419,Cash,3,0.242086516,FALSE,1,FALSE,Returning,7,North,52:10.3,System A,9
+263,264,43,Male,Rural,Clothing,21-09-2022,503.9067079,Debit Card,7,0.397007225,TRUE,4,FALSE,New,4,South,52:10.3,System A,9
+264,265,19,Male,City,Clothing,22-09-2022,21.98208561,Debit Card,7,0.288244452,FALSE,1,TRUE,New,3,North,52:10.3,System A,9
+265,266,18,Male,City,Clothing,23-09-2022,18.94808439,Debit Card,2,0.171034717,FALSE,1,FALSE,New,4,North,52:10.3,System A,9
+266,267,29,Female,Rural,Home Appliances,24-09-2022,363.4590505,Debit Card,7,0.404989372,FALSE,4,FALSE,Returning,1,South,52:10.3,System A,9
+267,268,22,Female,City,Electronics,25-09-2022,926.9321277,Credit Card,1,0.119144835,FALSE,5,FALSE,New,5,East,52:10.3,System A,9
+268,269,54,Female,City,Home Appliances,26-09-2022,236.3900118,Debit Card,5,0.11219149,FALSE,3,FALSE,Returning,4,West,52:10.3,System A,9
+269,270,49,Female,Rural,Clothing,27-09-2022,638.020052,Debit Card,9,0.252251462,FALSE,3,FALSE,New,3,South,52:10.3,System A,9
+270,271,26,Male,Rural,Home Appliances,28-09-2022,229.855112,Cash,7,0.130424623,TRUE,2,FALSE,New,5,East,52:10.3,System A,9
+271,272,58,Male,Rural,Clothing,29-09-2022,328.4532898,Cash,7,0.004543517,FALSE,5,TRUE,Returning,7,North,52:10.3,System A,9
+272,273,52,Male,Rural,Home Appliances,30-09-2022,849.5616687,Credit Card,2,0.324148764,FALSE,2,TRUE,New,5,East,52:10.3,System A,9
+273,274,36,Male,Suburb,Clothing,01-10-2022,731.5728278,Cash,8,0.255546911,FALSE,3,FALSE,Returning,4,South,52:10.3,System A,10
+274,275,33,Female,Rural,Home Appliances,02-10-2022,104.4452845,Debit Card,3,0.222758907,FALSE,4,TRUE,New,4,South,52:10.3,System A,10
+275,276,20,Male,Suburb,Home Appliances,03-10-2022,434.4150008,Cash,8,0.483484257,FALSE,1,FALSE,New,2,East,52:10.3,System A,10
+276,277,37,Male,Suburb,Home Appliances,04-10-2022,38.87806601,Credit Card,3,0.285599592,FALSE,3,FALSE,New,2,South,52:10.3,System A,10
+277,278,41,Female,Suburb,Electronics,05-10-2022,486.0812451,Cash,7,0.431715789,FALSE,5,FALSE,Returning,5,West,52:10.3,System A,10
+278,279,50,Female,City,Home Appliances,06-10-2022,665.8096716,Cash,2,0.069725118,TRUE,3,TRUE,New,6,East,52:10.3,System A,10
+279,280,41,Female,Suburb,Electronics,07-10-2022,127.3175974,Credit Card,4,0.284603232,FALSE,5,TRUE,Returning,6,North,52:10.3,System A,10
+280,281,28,Female,Suburb,Clothing,08-10-2022,295.9960895,Credit Card,6,0.433989813,FALSE,5,FALSE,Returning,2,East,52:10.3,System A,10
+281,282,25,Male,City,Home Appliances,09-10-2022,403.8582592,Debit Card,9,0.291552879,FALSE,5,FALSE,Returning,3,East,52:10.3,System A,10
+282,283,53,Male,City,Clothing,10-10-2022,920.3357144,Cash,5,0.359007089,FALSE,2,FALSE,Returning,1,East,52:10.3,System A,10
+283,284,55,Female,City,Clothing,11-10-2022,993.3224653,Debit Card,9,0.186021784,FALSE,4,TRUE,Returning,5,East,52:10.3,System A,10
+284,285,57,Male,Rural,Home Appliances,12-10-2022,54.46218601,Cash,5,0.046224759,FALSE,3,TRUE,Returning,1,North,52:10.3,System A,10
+285,286,37,Male,City,Electronics,13-10-2022,763.3978443,Cash,8,0.228950148,FALSE,4,TRUE,New,2,North,52:10.3,System A,10
+286,287,52,Male,City,Home Appliances,14-10-2022,378.0068257,Debit Card,1,0.197239695,FALSE,1,FALSE,New,4,North,52:10.3,System A,10
+287,288,42,Female,Suburb,Clothing,15-10-2022,398.5336044,Cash,7,0.433530091,FALSE,3,TRUE,New,7,East,52:10.3,System A,10
+288,289,52,Male,City,Clothing,16-10-2022,756.7223236,Cash,4,0.121997651,FALSE,4,TRUE,New,5,West,52:10.3,System A,10
+289,290,42,Female,Rural,Home Appliances,17-10-2022,919.2421678,Cash,5,0.483367114,FALSE,4,TRUE,New,2,West,52:10.3,System A,10
+290,291,46,Male,City,Electronics,18-10-2022,951.4193086,Credit Card,6,0.47906906,FALSE,1,FALSE,Returning,3,North,52:10.3,System A,10
+291,292,35,Male,Rural,Electronics,19-10-2022,581.3513602,Debit Card,5,0.123815822,FALSE,5,FALSE,Returning,7,West,52:10.3,System A,10
+292,293,63,Male,City,Clothing,20-10-2022,363.5499477,Credit Card,1,0.174025978,TRUE,3,FALSE,Returning,5,West,52:10.3,System A,10
+293,294,35,Female,City,Clothing,21-10-2022,789.673595,Debit Card,9,0.44777787,FALSE,3,TRUE,New,5,West,52:10.3,System A,10
+294,295,19,Male,City,Electronics,22-10-2022,258.4913694,Debit Card,2,0.48331111,FALSE,1,FALSE,New,6,West,52:10.3,System A,10
+295,296,52,Female,City,Home Appliances,23-10-2022,568.4332885,Cash,9,0.221719551,FALSE,5,FALSE,Returning,4,West,52:10.3,System A,10
+296,297,33,Female,Rural,Clothing,24-10-2022,364.9926769,Debit Card,2,0.160498523,FALSE,3,TRUE,Returning,5,South,52:10.3,System A,10
+297,298,58,Female,Rural,Electronics,25-10-2022,660.064763,Credit Card,9,0.263047007,FALSE,3,TRUE,Returning,4,North,52:10.3,System A,10
+298,299,53,Male,Suburb,Clothing,26-10-2022,247.9949238,Credit Card,6,0.343884603,TRUE,3,FALSE,Returning,2,East,52:10.3,System A,10
+299,300,50,Male,Rural,Home Appliances,27-10-2022,199.6770163,Credit Card,9,0.136737258,FALSE,5,TRUE,Returning,3,West,52:10.3,System A,10
+300,301,21,Male,City,Electronics,28-10-2022,919.0566958,Debit Card,6,0.368236587,FALSE,1,TRUE,Returning,7,South,52:10.3,System A,10
+301,302,50,Male,Suburb,Clothing,29-10-2022,110.7856461,Credit Card,6,0.025828679,FALSE,3,FALSE,New,7,East,52:10.3,System A,10
+302,303,31,Female,Suburb,Home Appliances,30-10-2022,510.8983287,Debit Card,2,0.024647246,FALSE,4,FALSE,Returning,3,South,52:10.3,System A,10
+303,304,38,Female,Suburb,Clothing,31-10-2022,228.6442551,Credit Card,8,0.193143853,FALSE,5,FALSE,Returning,5,West,52:10.3,System A,10
+304,305,37,Female,City,Home Appliances,01-11-2022,48.54066369,Credit Card,3,0.176736596,FALSE,2,FALSE,New,5,West,52:10.3,System A,11
+305,306,25,Male,Rural,Home Appliances,02-11-2022,45.65863011,Debit Card,7,0.157816608,FALSE,1,FALSE,Returning,2,West,52:10.3,System A,11
+306,307,24,Female,City,Electronics,03-11-2022,183.4695544,Credit Card,5,0.245509881,FALSE,4,FALSE,Returning,6,West,52:10.3,System A,11
+307,308,20,Male,Suburb,Home Appliances,04-11-2022,868.102651,Cash,3,0.160366791,FALSE,3,TRUE,Returning,6,East,52:10.3,System A,11
+308,309,34,Female,City,Clothing,05-11-2022,289.6539565,Debit Card,1,0.096128959,FALSE,2,FALSE,New,6,East,52:10.3,System A,11
+309,310,50,Male,City,Home Appliances,06-11-2022,950.9545789,Debit Card,8,0.154734775,FALSE,1,TRUE,Returning,4,South,52:10.3,System A,11
+310,311,29,Male,Rural,Home Appliances,07-11-2022,585.8060701,Debit Card,3,0.487452136,TRUE,5,FALSE,Returning,6,North,52:10.3,System A,11
+311,312,39,Female,Rural,Electronics,08-11-2022,442.2480479,Cash,2,0.205556708,FALSE,2,FALSE,Returning,3,West,52:10.3,System A,11
+312,313,39,Female,Suburb,Home Appliances,09-11-2022,584.2879463,Debit Card,1,0.222356388,FALSE,2,FALSE,New,7,South,52:10.3,System A,11
+313,314,63,Female,City,Home Appliances,10-11-2022,521.5314014,Credit Card,4,0.288272495,FALSE,4,FALSE,Returning,7,South,52:10.3,System A,11
+314,315,47,Female,City,Clothing,11-11-2022,761.1884912,Credit Card,8,0.491670384,FALSE,1,FALSE,Returning,4,South,52:10.3,System A,11
+315,316,55,Male,Rural,Electronics,12-11-2022,289.6711053,Credit Card,3,0.120800638,FALSE,4,FALSE,New,2,West,52:10.3,System A,11
+316,317,55,Female,City,Electronics,13-11-2022,359.5198877,Debit Card,1,0.340641055,FALSE,4,FALSE,New,3,West,52:10.3,System A,11
+317,318,62,Female,City,Electronics,14-11-2022,895.1533595,Credit Card,4,0.357992347,FALSE,3,FALSE,Returning,7,South,52:10.3,System A,11
+318,319,25,Female,City,Home Appliances,15-11-2022,946.991948,Debit Card,9,0.303662208,FALSE,5,FALSE,Returning,3,West,52:10.3,System A,11
+319,320,44,Male,Rural,Electronics,16-11-2022,893.6326452,Credit Card,1,0.04428917,FALSE,2,FALSE,New,7,South,52:10.3,System A,11
+320,321,44,Male,Suburb,Home Appliances,17-11-2022,425.253514,Cash,2,0.338436138,FALSE,1,FALSE,Returning,1,East,52:10.3,System A,11
+321,322,51,Female,Suburb,Home Appliances,18-11-2022,782.561848,Cash,9,0.032047356,FALSE,5,FALSE,Returning,2,West,52:10.3,System A,11
+322,323,38,Male,City,Clothing,19-11-2022,481.572376,Cash,2,0.298071325,FALSE,5,TRUE,New,2,East,52:10.3,System A,11
+323,324,47,Female,Suburb,Clothing,20-11-2022,502.5644536,Cash,3,0.369790589,FALSE,1,FALSE,Returning,1,North,52:10.3,System A,11
+324,325,50,Male,Rural,Clothing,21-11-2022,212.633308,Debit Card,7,0.105484945,FALSE,5,FALSE,New,4,West,52:10.3,System A,11
+325,326,45,Male,Rural,Clothing,22-11-2022,595.2190002,Credit Card,3,0.420811004,FALSE,3,FALSE,Returning,7,North,52:10.3,System A,11
+326,327,64,Male,Suburb,Clothing,23-11-2022,194.2745388,Cash,9,0.015176903,FALSE,5,FALSE,Returning,7,South,52:10.3,System A,11
+327,328,50,Male,Suburb,Home Appliances,24-11-2022,338.2490521,Debit Card,6,0.421906432,FALSE,3,FALSE,Returning,7,West,52:10.3,System A,11
+328,329,22,Female,City,Home Appliances,25-11-2022,856.4798996,Cash,3,0.230164525,FALSE,2,TRUE,New,6,West,52:10.3,System A,11
+329,330,36,Female,Suburb,Electronics,26-11-2022,215.0050511,Cash,9,0.10879397,TRUE,2,TRUE,New,6,West,52:10.3,System A,11
+330,331,21,Female,City,Home Appliances,27-11-2022,80.44670232,Debit Card,1,0.066889072,FALSE,4,FALSE,Returning,6,North,52:10.3,System A,11
+331,332,52,Male,City,Home Appliances,28-11-2022,78.31751669,Debit Card,3,0.476653584,TRUE,3,TRUE,Returning,6,North,52:10.3,System A,11
+332,333,34,Female,Rural,Clothing,29-11-2022,941.3766753,Credit Card,1,0.036332794,FALSE,2,FALSE,Returning,6,South,52:10.3,System A,11
+333,334,61,Female,Rural,Home Appliances,30-11-2022,511.8512336,Credit Card,2,0.09954671,FALSE,5,FALSE,Returning,1,East,52:10.3,System A,11
+334,335,45,Female,Rural,Clothing,01-12-2022,415.3179511,Cash,8,0.173911174,FALSE,1,FALSE,Returning,2,East,52:10.3,System A,12
+335,336,47,Male,Rural,Electronics,02-12-2022,812.7697952,Cash,7,0.310117424,FALSE,1,FALSE,New,4,North,52:10.3,System A,12
+336,337,46,Male,Suburb,Electronics,03-12-2022,837.4676686,Credit Card,2,0.272400543,TRUE,3,TRUE,New,3,West,52:10.3,System A,12
+337,338,63,Male,Rural,Home Appliances,04-12-2022,338.8691228,Credit Card,2,0.062821746,FALSE,4,FALSE,New,6,East,52:10.3,System A,12
+338,339,23,Female,Suburb,Electronics,05-12-2022,696.6818769,Debit Card,9,0.144863992,FALSE,5,FALSE,Returning,1,East,52:10.3,System A,12
+339,340,52,Female,Rural,Home Appliances,06-12-2022,773.4115877,Credit Card,6,0.119375886,FALSE,3,FALSE,New,7,North,52:10.3,System A,12
+340,341,58,Female,Suburb,Electronics,07-12-2022,658.10418,Credit Card,5,0.106771427,FALSE,1,TRUE,New,4,South,52:10.3,System A,12
+341,342,54,Male,City,Clothing,08-12-2022,160.0791241,Cash,6,0.205572168,FALSE,3,FALSE,Returning,4,North,52:10.3,System A,12
+342,343,41,Male,Suburb,Clothing,09-12-2022,877.1242527,Credit Card,9,0.352015726,FALSE,5,TRUE,New,4,North,52:10.3,System A,12
+343,344,46,Female,Suburb,Clothing,10-12-2022,543.7036072,Cash,7,0.108726466,FALSE,2,FALSE,Returning,1,West,52:10.3,System A,12
+344,345,63,Male,Rural,Clothing,11-12-2022,289.6477021,Credit Card,9,0.18333944,FALSE,5,TRUE,New,3,North,52:10.3,System A,12
+345,346,48,Male,Suburb,Home Appliances,12-12-2022,430.9759036,Debit Card,4,0.195458713,FALSE,2,TRUE,New,6,West,52:10.3,System A,12
+346,347,52,Male,City,Electronics,13-12-2022,47.19537949,Credit Card,2,0.488228265,TRUE,2,TRUE,Returning,4,South,52:10.3,System A,12
+347,348,50,Male,City,Home Appliances,14-12-2022,136.5881332,Credit Card,8,0.477333178,FALSE,2,FALSE,New,1,West,52:10.3,System A,12
+348,349,38,Female,Rural,Clothing,15-12-2022,767.891283,Credit Card,4,0.400068791,FALSE,3,FALSE,Returning,7,South,52:10.3,System A,12
+349,350,49,Male,City,Home Appliances,16-12-2022,10.01151841,Cash,9,0.12082946,FALSE,1,FALSE,Returning,2,South,52:10.3,System A,12
+350,351,40,Male,Suburb,Electronics,17-12-2022,422.4001702,Debit Card,4,0.034018657,FALSE,3,FALSE,New,7,South,52:10.3,System A,12
+351,352,50,Male,City,Home Appliances,18-12-2022,527.2850793,Credit Card,8,0.158452069,FALSE,1,FALSE,New,1,North,52:10.3,System A,12
+352,353,20,Male,Rural,Electronics,19-12-2022,64.0880758,Cash,9,0.133397275,FALSE,5,FALSE,Returning,1,West,52:10.3,System A,12
+353,354,35,Female,Suburb,Home Appliances,20-12-2022,973.3473813,Debit Card,9,0.2529629,TRUE,4,FALSE,New,1,East,52:10.3,System A,12
+354,355,42,Female,Rural,Electronics,21-12-2022,233.8640779,Cash,4,0.388863955,FALSE,5,TRUE,New,4,North,52:10.3,System A,12
+355,356,59,Male,Suburb,Electronics,22-12-2022,311.1567324,Cash,1,0.429161469,TRUE,3,FALSE,Returning,1,South,52:10.3,System A,12
+356,357,48,Male,City,Clothing,23-12-2022,310.9030871,Debit Card,3,0.422432043,FALSE,3,FALSE,Returning,2,East,52:10.3,System A,12
+357,358,20,Male,Rural,Electronics,24-12-2022,238.1124955,Credit Card,9,0.179837781,FALSE,1,FALSE,Returning,4,North,52:10.3,System A,12
+358,359,57,Male,Rural,Clothing,25-12-2022,11.45908387,Cash,4,0.343617172,FALSE,3,FALSE,Returning,7,East,52:10.3,System A,12
+359,360,63,Male,Suburb,Clothing,26-12-2022,732.0513461,Cash,5,0.156417099,FALSE,2,TRUE,Returning,2,South,52:10.3,System A,12
+360,361,41,Male,Rural,Clothing,27-12-2022,967.1770448,Credit Card,7,0.030452772,FALSE,3,TRUE,New,5,East,52:10.3,System A,12
+361,362,49,Female,Suburb,Home Appliances,28-12-2022,232.0505485,Credit Card,5,0.350782633,FALSE,1,FALSE,Returning,7,East,52:10.3,System A,12
+362,363,64,Male,Suburb,Home Appliances,29-12-2022,666.4167199,Debit Card,4,0.004913776,FALSE,1,TRUE,Returning,1,South,52:10.3,System A,12
+363,364,39,Female,Suburb,Home Appliances,30-12-2022,744.4773637,Debit Card,2,0.204591294,FALSE,2,TRUE,New,6,East,52:10.3,System A,12
+364,365,40,Female,Suburb,Home Appliances,31-12-2022,849.9411253,Debit Card,2,0.164689635,FALSE,1,TRUE,Returning,6,North,52:10.3,System A,12
+365,366,19,Male,City,Electronics,01-01-2023,428.402905,Credit Card,4,0.346688769,FALSE,4,FALSE,New,4,East,52:10.3,System A,1
+366,367,44,Female,Suburb,Electronics,02-01-2023,309.9015966,Cash,9,0.383122736,FALSE,5,TRUE,New,6,West,52:10.3,System A,1
+367,368,59,Female,Rural,Home Appliances,03-01-2023,332.0421827,Cash,8,0.152047318,FALSE,3,FALSE,Returning,7,North,52:10.3,System A,1
+368,369,19,Female,City,Electronics,04-01-2023,715.4951198,Debit Card,3,0.405813507,FALSE,4,FALSE,Returning,4,East,52:10.3,System A,1
+369,370,43,Female,Rural,Electronics,05-01-2023,818.6116718,Credit Card,9,0.14695838,FALSE,3,FALSE,New,7,West,52:10.3,System A,1
+370,371,34,Female,City,Clothing,06-01-2023,189.7978281,Cash,5,0.22316318,FALSE,4,TRUE,New,1,West,52:10.3,System A,1
+371,372,57,Female,Suburb,Clothing,07-01-2023,377.2315981,Debit Card,3,0.363509264,TRUE,3,FALSE,Returning,3,West,52:10.3,System A,1
+372,373,50,Male,City,Clothing,08-01-2023,902.9207948,Cash,5,0.346460115,FALSE,2,FALSE,Returning,3,East,52:10.3,System A,1
+373,374,26,Female,City,Clothing,09-01-2023,808.6265845,Cash,4,0.493684236,FALSE,1,FALSE,Returning,2,South,52:10.3,System A,1
+374,375,60,Female,Rural,Electronics,10-01-2023,985.0098187,Credit Card,8,0.112580512,FALSE,1,FALSE,Returning,1,West,52:10.3,System A,1
+375,376,56,Female,Rural,Home Appliances,11-01-2023,756.7057771,Credit Card,5,0.331158957,FALSE,2,FALSE,New,6,South,52:10.3,System A,1
+376,377,46,Male,Suburb,Electronics,12-01-2023,399.263249,Cash,8,0.304840954,FALSE,4,TRUE,New,1,North,52:10.3,System A,1
+377,378,59,Female,City,Electronics,13-01-2023,594.7314557,Debit Card,9,0.457549227,FALSE,5,FALSE,Returning,5,South,52:10.3,System A,1
+378,379,43,Male,City,Electronics,14-01-2023,664.4041117,Credit Card,4,0.078181071,FALSE,4,FALSE,Returning,3,South,52:10.3,System A,1
+379,380,52,Female,City,Clothing,15-01-2023,87.67125815,Cash,7,0.375899082,FALSE,1,TRUE,New,6,South,52:10.3,System A,1
+380,381,42,Male,Suburb,Clothing,16-01-2023,549.0519895,Credit Card,2,0.284134308,FALSE,5,FALSE,New,7,South,52:10.3,System A,1
+381,382,41,Male,Suburb,Clothing,17-01-2023,712.2276202,Credit Card,6,0.137332935,FALSE,3,FALSE,Returning,7,South,52:10.3,System A,1
+382,383,30,Female,Suburb,Home Appliances,18-01-2023,175.648091,Credit Card,8,0.237217457,FALSE,5,TRUE,Returning,3,North,52:10.3,System A,1
+383,384,24,Female,Suburb,Electronics,19-01-2023,782.8254003,Cash,7,0.166888299,FALSE,4,TRUE,Returning,1,North,52:10.3,System A,1
+384,385,53,Male,Suburb,Home Appliances,20-01-2023,587.9350527,Debit Card,7,0.289656701,FALSE,2,TRUE,New,6,South,52:10.3,System A,1
+385,386,62,Female,Rural,Clothing,21-01-2023,952.6995678,Debit Card,8,0.444500305,TRUE,3,FALSE,Returning,2,South,52:10.3,System A,1
+386,387,37,Male,City,Home Appliances,22-01-2023,51.99807522,Debit Card,7,0.284652492,FALSE,4,TRUE,Returning,7,West,52:10.3,System A,1
+387,388,18,Male,City,Electronics,23-01-2023,272.6728762,Credit Card,5,0.315861209,FALSE,3,TRUE,Returning,1,North,52:10.3,System A,1
+388,389,25,Male,City,Electronics,24-01-2023,605.5383405,Cash,7,0.259373924,FALSE,5,TRUE,Returning,2,East,52:10.3,System A,1
+389,390,63,Male,City,Clothing,25-01-2023,303.5943131,Credit Card,3,0.025582753,TRUE,1,FALSE,Returning,6,North,52:10.3,System A,1
+390,391,33,Male,City,Clothing,26-01-2023,717.2799224,Debit Card,5,0.116429278,FALSE,4,FALSE,Returning,3,East,52:10.3,System A,1
+391,392,31,Female,City,Home Appliances,27-01-2023,761.4152297,Debit Card,7,0.246000865,TRUE,2,FALSE,Returning,5,West,52:10.3,System A,1
+392,393,29,Male,City,Clothing,28-01-2023,111.4908044,Cash,9,0.155117642,TRUE,5,TRUE,Returning,4,South,52:10.3,System A,1
+393,394,40,Male,City,Clothing,29-01-2023,518.7159196,Credit Card,2,0.090881799,FALSE,4,FALSE,Returning,3,West,52:10.3,System A,1
+394,395,32,Female,Rural,Electronics,30-01-2023,513.80165,Debit Card,4,0.252066421,FALSE,2,FALSE,Returning,2,South,52:10.3,System A,1
+395,396,45,Male,City,Clothing,31-01-2023,375.5879625,Cash,7,0.161404897,FALSE,4,FALSE,Returning,1,North,52:10.3,System A,1
+396,397,51,Female,Rural,Clothing,01-02-2023,933.5956139,Credit Card,1,0.129053822,FALSE,5,FALSE,Returning,7,South,52:10.3,System A,2
+397,398,19,Female,Suburb,Electronics,02-02-2023,829.2312567,Credit Card,2,0.231992709,FALSE,4,FALSE,Returning,6,East,52:10.3,System A,2
+398,399,49,Female,City,Electronics,03-02-2023,700.2372881,Debit Card,9,0.066642129,TRUE,3,FALSE,Returning,3,East,52:10.3,System A,2
+399,400,40,Male,Suburb,Home Appliances,04-02-2023,717.1833694,Debit Card,7,0.463872867,FALSE,5,TRUE,Returning,7,West,52:10.3,System A,2
+400,401,39,Male,Suburb,Clothing,05-02-2023,467.0989824,Credit Card,7,0.433851049,FALSE,4,FALSE,Returning,7,North,52:10.3,System A,2
+401,402,42,Male,Suburb,Electronics,06-02-2023,921.7845759,Credit Card,6,0.353810293,FALSE,1,FALSE,Returning,5,East,52:10.3,System A,2
+402,403,39,Female,Rural,Home Appliances,07-02-2023,697.649473,Debit Card,3,0.053106914,FALSE,4,FALSE,Returning,6,West,52:10.3,System A,2
+403,404,39,Male,Suburb,Home Appliances,08-02-2023,731.691251,Credit Card,3,0.387938627,FALSE,3,FALSE,New,2,North,52:10.3,System A,2
+404,405,59,Female,Suburb,Clothing,09-02-2023,863.0739947,Debit Card,2,0.403978664,FALSE,2,FALSE,Returning,6,North,52:10.3,System A,2
+405,406,23,Male,Suburb,Clothing,10-02-2023,281.3308734,Credit Card,6,0.383882309,FALSE,2,TRUE,New,6,West,52:10.3,System A,2
+406,407,32,Female,City,Home Appliances,11-02-2023,809.0001948,Debit Card,4,0.056982944,FALSE,2,TRUE,New,1,East,52:10.3,System A,2
+407,408,60,Male,City,Electronics,12-02-2023,203.2881969,Cash,5,0.321953979,FALSE,1,FALSE,Returning,4,East,52:10.3,System A,2
+408,409,54,Male,Rural,Home Appliances,13-02-2023,351.8885327,Debit Card,3,0.417162398,FALSE,3,FALSE,New,7,West,52:10.3,System A,2
+409,410,50,Male,Rural,Clothing,14-02-2023,342.2543497,Debit Card,6,0.288676701,FALSE,5,TRUE,New,2,East,52:10.3,System A,2
+410,411,25,Female,City,Electronics,15-02-2023,978.7402137,Cash,3,0.323203688,FALSE,2,TRUE,New,1,West,52:10.3,System A,2
+411,412,61,Female,Rural,Electronics,16-02-2023,857.9718515,Credit Card,8,0.22918174,FALSE,3,FALSE,New,7,East,52:10.3,System A,2
+412,413,61,Male,City,Home Appliances,17-02-2023,704.158163,Cash,9,0.26435366,TRUE,4,FALSE,Returning,4,East,52:10.3,System A,2
+413,414,22,Male,Suburb,Clothing,18-02-2023,729.786194,Debit Card,4,0.017188429,FALSE,1,FALSE,Returning,1,West,52:10.3,System A,2
+414,415,56,Female,Suburb,Home Appliances,19-02-2023,566.4520665,Credit Card,9,0.319481511,TRUE,3,FALSE,Returning,4,West,52:10.3,System A,2
+415,416,21,Female,Rural,Home Appliances,20-02-2023,947.6197604,Cash,7,0.040723606,FALSE,3,FALSE,New,4,East,52:10.3,System A,2
+416,417,23,Female,City,Home Appliances,21-02-2023,501.2961654,Credit Card,3,0.217507297,FALSE,5,FALSE,New,4,West,52:10.3,System A,2
+417,418,62,Male,City,Electronics,22-02-2023,386.7125328,Credit Card,7,0.146327549,FALSE,3,FALSE,New,1,East,52:10.3,System A,2
+418,419,49,Female,Rural,Electronics,23-02-2023,171.4049836,Cash,1,0.272713975,FALSE,5,FALSE,Returning,6,South,52:10.3,System A,2
+419,420,47,Male,City,Clothing,24-02-2023,788.3435957,Credit Card,3,0.066708168,FALSE,1,FALSE,Returning,4,North,52:10.3,System A,2
+420,421,64,Female,Suburb,Clothing,25-02-2023,737.0994928,Cash,6,0.345821701,FALSE,1,FALSE,Returning,6,North,52:10.3,System A,2
+421,422,52,Male,Rural,Home Appliances,26-02-2023,390.5114881,Debit Card,4,0.397505768,TRUE,4,FALSE,Returning,7,East,52:10.3,System A,2
+422,423,57,Female,Rural,Home Appliances,27-02-2023,34.94147982,Credit Card,7,0.081677225,TRUE,5,FALSE,Returning,7,North,52:10.3,System A,2
+423,424,33,Female,City,Home Appliances,28-02-2023,840.6073544,Debit Card,3,0.052156544,FALSE,5,TRUE,Returning,2,East,52:10.3,System A,2
+424,425,30,Female,Rural,Clothing,01-03-2023,21.30380362,Debit Card,1,0.072757741,FALSE,2,TRUE,Returning,5,West,52:10.3,System A,3
+425,426,59,Female,City,Electronics,02-03-2023,706.6627818,Credit Card,9,0.438563781,FALSE,2,TRUE,New,6,South,52:10.3,System A,3
+426,427,47,Female,City,Electronics,03-03-2023,970.5545386,Cash,6,0.264094631,FALSE,4,TRUE,New,7,North,52:10.3,System A,3
+427,428,36,Male,City,Home Appliances,04-03-2023,443.2847149,Credit Card,8,0.233630498,FALSE,1,TRUE,Returning,5,North,52:10.3,System A,3
+428,429,34,Female,City,Home Appliances,05-03-2023,242.6236709,Debit Card,3,0.05335591,FALSE,2,FALSE,Returning,4,West,52:10.3,System A,3
+429,430,36,Female,City,Home Appliances,06-03-2023,707.8222999,Debit Card,8,0.324778003,FALSE,3,FALSE,Returning,5,South,52:10.3,System A,3
+430,431,45,Female,Rural,Home Appliances,07-03-2023,818.9568606,Cash,2,0.433999796,FALSE,1,FALSE,Returning,5,South,52:10.3,System A,3
+431,432,43,Male,Suburb,Clothing,08-03-2023,550.9660129,Credit Card,4,0.414092935,FALSE,3,TRUE,New,4,South,52:10.3,System A,3
+432,433,54,Female,Suburb,Electronics,09-03-2023,967.3649225,Debit Card,3,0.313027354,FALSE,5,FALSE,Returning,6,West,52:10.3,System A,3
+433,434,43,Male,Rural,Home Appliances,10-03-2023,61.15203444,Debit Card,1,0.037639358,TRUE,1,FALSE,Returning,4,North,52:10.3,System A,3
+434,435,40,Female,Rural,Clothing,11-03-2023,509.7476423,Debit Card,7,0.056198514,FALSE,4,FALSE,New,2,North,52:10.3,System A,3
+435,436,26,Female,Suburb,Home Appliances,12-03-2023,721.2694078,Cash,2,0.024654494,FALSE,5,FALSE,Returning,3,South,52:10.3,System A,3
+436,437,29,Male,Suburb,Home Appliances,13-03-2023,864.0140664,Debit Card,4,0.128739608,FALSE,5,TRUE,New,1,West,52:10.3,System A,3
+437,438,18,Female,Suburb,Electronics,14-03-2023,187.4630558,Debit Card,9,0.067830734,FALSE,3,TRUE,New,4,West,52:10.3,System A,3
+438,439,18,Male,Suburb,Home Appliances,15-03-2023,802.0034469,Credit Card,6,0.13002402,FALSE,5,FALSE,Returning,4,West,52:10.3,System A,3
+439,440,64,Male,Suburb,Electronics,16-03-2023,557.180005,Credit Card,8,0.192529028,FALSE,2,TRUE,Returning,5,South,52:10.3,System A,3
+440,441,51,Female,City,Electronics,17-03-2023,402.5881452,Debit Card,2,0.471491392,FALSE,1,FALSE,New,2,West,52:10.3,System A,3
+441,442,49,Male,Rural,Electronics,18-03-2023,140.3978783,Debit Card,7,0.30518803,TRUE,2,FALSE,New,7,South,52:10.3,System A,3
+442,443,42,Female,City,Clothing,19-03-2023,866.6428013,Credit Card,6,0.417486893,FALSE,3,TRUE,Returning,7,South,52:10.3,System A,3
+443,444,57,Female,Suburb,Clothing,20-03-2023,165.7004761,Cash,9,0.35517575,FALSE,3,TRUE,New,5,South,52:10.3,System A,3
+444,445,62,Male,Suburb,Electronics,21-03-2023,316.6899806,Cash,7,0.056251565,FALSE,1,FALSE,Returning,6,East,52:10.3,System A,3
+445,446,18,Male,Suburb,Home Appliances,22-03-2023,297.1450766,Cash,1,0.367960203,TRUE,5,FALSE,Returning,4,South,52:10.3,System A,3
+446,447,33,Male,City,Electronics,23-03-2023,872.6998938,Cash,8,0.137549441,FALSE,4,FALSE,New,4,West,52:10.3,System A,3
+447,448,56,Male,City,Home Appliances,24-03-2023,675.9759643,Cash,3,0.319553923,FALSE,3,TRUE,Returning,5,East,52:10.3,System A,3
+448,449,22,Female,Suburb,Electronics,25-03-2023,798.7145832,Cash,2,0.170480987,FALSE,1,TRUE,Returning,4,North,52:10.3,System A,3
+449,450,39,Female,City,Home Appliances,26-03-2023,257.9632198,Cash,3,0.498836132,FALSE,4,TRUE,Returning,6,North,52:10.3,System A,3
+450,451,46,Male,City,Clothing,27-03-2023,628.6253586,Cash,6,0.13177574,FALSE,5,TRUE,New,3,West,52:10.3,System A,3
+451,452,20,Female,Suburb,Home Appliances,28-03-2023,576.0285233,Credit Card,3,0.139565235,FALSE,3,FALSE,New,1,West,52:10.3,System A,3
+452,453,29,Female,City,Electronics,29-03-2023,834.502073,Cash,5,0.465336128,FALSE,1,TRUE,Returning,1,West,52:10.3,System A,3
+453,454,43,Female,Rural,Clothing,30-03-2023,907.0261899,Cash,6,0.012322202,FALSE,1,FALSE,Returning,1,West,52:10.3,System A,3
+454,455,33,Female,Rural,Home Appliances,31-03-2023,22.03520376,Cash,8,0.348344494,FALSE,1,FALSE,New,3,East,52:10.3,System A,3
+455,456,54,Male,Rural,Home Appliances,01-04-2023,677.2797199,Debit Card,7,0.362663195,FALSE,3,TRUE,New,4,West,52:10.3,System A,4
+456,457,39,Male,Rural,Home Appliances,02-04-2023,61.31744113,Credit Card,8,0.418189289,FALSE,4,FALSE,Returning,5,South,52:10.3,System A,4
+457,458,46,Female,Suburb,Home Appliances,03-04-2023,553.3700784,Credit Card,3,0.487219655,FALSE,1,FALSE,Returning,7,North,52:10.3,System A,4
+458,459,31,Male,Suburb,Home Appliances,04-04-2023,294.7564018,Credit Card,4,0.48780096,FALSE,5,FALSE,New,2,West,52:10.3,System A,4
+459,460,45,Male,Suburb,Clothing,05-04-2023,313.7088335,Cash,6,0.032638379,TRUE,1,FALSE,Returning,4,South,52:10.3,System A,4
+460,461,22,Male,Rural,Clothing,06-04-2023,359.4289184,Cash,7,0.410919661,TRUE,4,FALSE,New,3,West,52:10.3,System A,4
+461,462,64,Female,Rural,Clothing,07-04-2023,625.0795246,Debit Card,9,0.323154967,FALSE,3,FALSE,Returning,6,South,52:10.3,System A,4
+462,463,47,Female,City,Clothing,08-04-2023,340.709466,Credit Card,1,0.323671067,TRUE,1,FALSE,Returning,3,East,52:10.3,System A,4
+463,464,63,Female,City,Electronics,09-04-2023,735.3720601,Cash,8,0.064174963,FALSE,1,FALSE,Returning,7,North,52:10.3,System A,4
+464,465,22,Male,Rural,Clothing,10-04-2023,410.4821117,Credit Card,8,0.325093583,FALSE,5,FALSE,New,1,North,52:10.3,System A,4
+465,466,29,Female,Rural,Home Appliances,11-04-2023,77.66966831,Debit Card,6,0.49124129,FALSE,5,FALSE,Returning,4,East,52:10.3,System A,4
+466,467,33,Female,Rural,Home Appliances,12-04-2023,785.9222441,Debit Card,4,0.455909285,FALSE,1,FALSE,New,7,South,52:10.3,System A,4
+467,468,43,Male,Rural,Clothing,13-04-2023,292.9007413,Debit Card,3,0.21956533,FALSE,1,FALSE,New,1,West,52:10.3,System A,4
+468,469,43,Female,City,Home Appliances,14-04-2023,438.4392108,Credit Card,3,0.019973987,FALSE,5,FALSE,Returning,2,South,52:10.3,System A,4
+469,470,38,Female,Rural,Clothing,15-04-2023,688.5894444,Cash,6,0.181146745,FALSE,4,TRUE,Returning,6,North,52:10.3,System A,4
+470,471,56,Male,City,Home Appliances,16-04-2023,339.1315956,Cash,8,0.413195156,FALSE,2,FALSE,New,1,East,52:10.3,System A,4
+471,472,53,Male,Rural,Electronics,17-04-2023,66.01979959,Debit Card,7,0.350749551,TRUE,2,FALSE,New,2,East,52:10.3,System A,4
+472,473,50,Male,Rural,Electronics,18-04-2023,380.1818365,Cash,1,0.229671828,FALSE,1,FALSE,Returning,3,South,52:10.3,System A,4
+473,474,47,Female,Rural,Clothing,19-04-2023,945.0040969,Debit Card,6,0.027550768,FALSE,5,FALSE,Returning,1,South,52:10.3,System A,4
+474,475,54,Female,City,Clothing,20-04-2023,645.3170533,Credit Card,7,0.213447364,FALSE,3,FALSE,New,1,East,52:10.3,System A,4
+475,476,40,Female,City,Clothing,21-04-2023,674.7643572,Debit Card,7,0.23451247,TRUE,3,FALSE,Returning,5,North,52:10.3,System A,4
+476,477,27,Male,Suburb,Home Appliances,22-04-2023,635.9593321,Credit Card,9,0.464277766,FALSE,2,TRUE,Returning,6,West,52:10.3,System A,4
+477,478,22,Male,Rural,Clothing,23-04-2023,207.0022176,Debit Card,5,0.320543052,FALSE,4,FALSE,Returning,6,West,52:10.3,System A,4
+478,479,53,Female,Suburb,Electronics,24-04-2023,424.1505255,Cash,1,0.155826458,FALSE,2,FALSE,Returning,7,South,52:10.3,System A,4
+479,480,51,Female,Suburb,Home Appliances,25-04-2023,753.4304004,Cash,2,0.262659132,FALSE,1,FALSE,New,3,East,52:10.3,System A,4
+480,481,48,Male,City,Clothing,26-04-2023,110.3591686,Debit Card,4,0.033027654,FALSE,4,FALSE,Returning,5,East,52:10.3,System A,4
+481,482,27,Male,City,Home Appliances,27-04-2023,285.0742483,Cash,5,0.486284118,FALSE,3,FALSE,Returning,7,East,52:10.3,System A,4
+482,483,36,Male,Suburb,Home Appliances,28-04-2023,283.5559174,Cash,9,0.180029951,FALSE,5,TRUE,Returning,2,North,52:10.3,System A,4
+483,484,49,Male,Rural,Clothing,29-04-2023,437.6987383,Cash,1,0.238933677,FALSE,5,TRUE,Returning,7,South,52:10.3,System A,4
+484,485,18,Female,City,Home Appliances,30-04-2023,980.5650535,Credit Card,3,0.177641987,FALSE,1,FALSE,Returning,2,South,52:10.3,System A,4
+485,486,22,Male,Rural,Electronics,01-05-2023,76.82752122,Cash,5,0.341255865,FALSE,2,TRUE,New,3,South,52:10.3,System A,5
+486,487,62,Female,Rural,Electronics,02-05-2023,523.5139844,Credit Card,3,0.331116079,FALSE,1,FALSE,New,6,North,52:10.3,System A,5
+487,488,21,Female,Suburb,Home Appliances,03-05-2023,187.5710352,Debit Card,4,0.357661155,FALSE,5,FALSE,New,2,South,52:10.3,System A,5
+488,489,33,Female,Suburb,Clothing,04-05-2023,970.96978,Cash,3,0.134071615,FALSE,3,FALSE,Returning,3,West,52:10.3,System A,5
+489,490,41,Male,Suburb,Home Appliances,05-05-2023,122.1704697,Cash,4,0.157834241,FALSE,5,TRUE,Returning,7,South,52:10.3,System A,5
+490,491,33,Male,Suburb,Electronics,06-05-2023,409.5649923,Cash,1,0.062625616,FALSE,4,FALSE,Returning,2,South,52:10.3,System A,5
+491,492,19,Male,City,Home Appliances,07-05-2023,740.506135,Debit Card,8,0.327754986,FALSE,5,FALSE,New,4,South,52:10.3,System A,5
+492,493,45,Male,City,Home Appliances,08-05-2023,707.5088837,Credit Card,4,0.019898564,FALSE,5,FALSE,Returning,1,North,52:10.3,System A,5
+493,494,49,Female,Suburb,Electronics,09-05-2023,428.5013505,Credit Card,7,0.298841168,FALSE,4,FALSE,Returning,7,West,52:10.3,System A,5
+494,495,44,Male,City,Home Appliances,10-05-2023,353.0589263,Cash,2,0.434847942,FALSE,2,TRUE,Returning,6,West,52:10.3,System A,5
+495,496,37,Male,Suburb,Home Appliances,11-05-2023,403.6362548,Debit Card,2,0.445416074,FALSE,5,FALSE,New,7,East,52:10.3,System A,5
+496,497,41,Female,Rural,Clothing,12-05-2023,271.6335005,Debit Card,6,0.22451888,FALSE,1,FALSE,New,4,East,52:10.3,System A,5
+497,498,29,Male,Rural,Clothing,13-05-2023,213.2796093,Debit Card,2,0.229651844,FALSE,5,FALSE,Returning,3,West,52:10.3,System A,5
+498,499,52,Female,Rural,Electronics,14-05-2023,488.2093006,Debit Card,6,0.038484592,FALSE,1,FALSE,Returning,3,South,52:10.3,System A,5
+499,500,50,Female,Suburb,Electronics,15-05-2023,275.8484185,Debit Card,2,0.335382513,FALSE,4,FALSE,New,7,South,52:10.3,System A,5
+500,501,50,Female,Rural,Electronics,16-05-2023,294.5870482,Credit Card,4,0.41062971,FALSE,5,TRUE,Returning,4,South,52:10.3,System A,5
+501,502,60,Female,City,Clothing,17-05-2023,660.1885028,Credit Card,7,0.122327527,TRUE,4,TRUE,New,7,North,52:10.3,System A,5
+502,503,54,Female,Rural,Electronics,18-05-2023,968.8519584,Credit Card,8,0.210650441,FALSE,4,FALSE,Returning,1,South,52:10.3,System A,5
+503,504,29,Female,Rural,Electronics,19-05-2023,607.6008286,Cash,3,0.419419668,FALSE,2,FALSE,Returning,1,North,52:10.3,System A,5
+504,505,20,Female,Rural,Electronics,20-05-2023,86.20967239,Debit Card,9,0.438560234,FALSE,5,TRUE,New,5,West,52:10.3,System A,5
+505,506,18,Female,City,Clothing,21-05-2023,84.82777772,Cash,2,0.12158999,FALSE,1,FALSE,Returning,2,South,52:10.3,System A,5
+506,507,50,Male,Suburb,Home Appliances,22-05-2023,951.9089886,Debit Card,8,0.275285317,FALSE,1,FALSE,New,5,South,52:10.3,System A,5
+507,508,57,Male,City,Electronics,23-05-2023,304.3178824,Credit Card,8,0.096246575,FALSE,5,FALSE,New,1,East,52:10.3,System A,5
+508,509,27,Male,Suburb,Home Appliances,24-05-2023,101.1463162,Cash,4,0.050939382,FALSE,2,FALSE,Returning,4,West,52:10.3,System A,5
+509,510,60,Male,Suburb,Electronics,25-05-2023,603.0541413,Credit Card,1,0.455560251,FALSE,2,FALSE,New,2,South,52:10.3,System A,5
+510,511,61,Female,Rural,Home Appliances,26-05-2023,627.4122905,Debit Card,1,0.410253752,FALSE,2,FALSE,New,4,North,52:10.3,System A,5
+511,512,46,Male,Suburb,Clothing,27-05-2023,652.0197719,Debit Card,2,0.380017451,FALSE,1,FALSE,New,5,West,52:10.3,System A,5
+512,513,30,Female,City,Clothing,28-05-2023,274.7280076,Debit Card,9,0.024383159,FALSE,4,FALSE,New,3,East,52:10.3,System A,5
+513,514,29,Male,City,Electronics,29-05-2023,24.95957737,Credit Card,2,0.421864396,FALSE,2,FALSE,New,4,West,52:10.3,System A,5
+514,515,48,Male,Suburb,Home Appliances,30-05-2023,965.3652158,Debit Card,2,0.219022038,FALSE,1,TRUE,New,5,North,52:10.3,System A,5
+515,516,63,Male,Rural,Clothing,31-05-2023,258.3841152,Credit Card,6,0.171197562,FALSE,1,TRUE,Returning,5,East,52:10.3,System A,5
+516,517,19,Female,Rural,Electronics,01-06-2023,679.2660252,Cash,7,0.273238181,FALSE,4,FALSE,New,5,North,52:10.3,System A,6
+517,518,52,Male,City,Electronics,02-06-2023,709.5635712,Debit Card,7,0.045676621,FALSE,5,FALSE,Returning,3,West,52:10.3,System A,6
+518,519,40,Female,Rural,Clothing,03-06-2023,613.9073429,Debit Card,9,0.378323275,FALSE,5,FALSE,New,3,East,52:10.3,System A,6
+519,520,34,Female,Suburb,Clothing,04-06-2023,319.7783203,Debit Card,6,0.291217538,FALSE,2,FALSE,New,7,North,52:10.3,System A,6
+520,521,43,Male,Suburb,Electronics,05-06-2023,278.3852912,Cash,8,0.093295048,FALSE,2,FALSE,New,3,West,52:10.3,System A,6
+521,522,25,Male,City,Home Appliances,06-06-2023,601.6915999,Debit Card,6,0.0941161,FALSE,4,FALSE,Returning,2,North,52:10.3,System A,6
+522,523,46,Male,Suburb,Home Appliances,07-06-2023,867.4346773,Credit Card,2,0.092124326,FALSE,2,FALSE,Returning,3,South,52:10.3,System A,6
+523,524,43,Female,City,Home Appliances,08-06-2023,947.2663916,Credit Card,1,0.028501194,FALSE,4,FALSE,Returning,3,West,52:10.3,System A,6
+524,525,27,Male,Suburb,Electronics,09-06-2023,114.8467464,Debit Card,5,0.293899225,FALSE,1,TRUE,New,3,East,52:10.3,System A,6
+525,526,43,Female,City,Clothing,10-06-2023,163.2803265,Debit Card,9,0.420174089,FALSE,2,FALSE,Returning,4,East,52:10.3,System A,6
+526,527,51,Female,Rural,Electronics,11-06-2023,945.2888962,Cash,8,0.008749107,TRUE,1,FALSE,New,3,South,52:10.3,System A,6
+527,528,58,Male,Suburb,Clothing,12-06-2023,739.1698761,Cash,4,0.024502322,FALSE,3,FALSE,New,2,North,52:10.3,System A,6
+528,529,24,Male,Suburb,Home Appliances,13-06-2023,884.1638866,Cash,5,0.286385138,FALSE,4,FALSE,Returning,5,North,52:10.3,System A,6
+529,530,21,Female,City,Home Appliances,14-06-2023,210.6063078,Debit Card,5,0.409747843,FALSE,3,FALSE,New,4,East,52:10.3,System A,6
+530,531,62,Female,City,Clothing,15-06-2023,591.7100124,Cash,6,0.163369445,FALSE,2,FALSE,Returning,1,North,52:10.3,System A,6
+531,532,28,Female,Suburb,Clothing,16-06-2023,704.1281985,Cash,3,0.174807199,FALSE,1,FALSE,New,3,West,52:10.3,System A,6
+532,533,46,Male,City,Electronics,17-06-2023,683.3107666,Credit Card,5,0.298173249,FALSE,2,TRUE,Returning,7,West,52:10.3,System A,6
+533,534,53,Female,Suburb,Home Appliances,18-06-2023,414.070174,Cash,2,0.137106445,FALSE,3,FALSE,Returning,7,East,52:10.3,System A,6
+534,535,42,Male,Rural,Electronics,19-06-2023,25.24094277,Credit Card,1,0.013304183,FALSE,2,TRUE,Returning,5,West,52:10.3,System A,6
+535,536,38,Female,City,Electronics,20-06-2023,587.0967962,Credit Card,1,0.367614259,FALSE,5,FALSE,New,5,East,52:10.3,System A,6
+536,537,53,Female,Suburb,Electronics,21-06-2023,260.5705238,Cash,7,0.312824956,FALSE,3,TRUE,New,4,North,52:10.3,System A,6
+537,538,27,Male,Rural,Home Appliances,22-06-2023,455.7517037,Credit Card,2,0.290378,FALSE,2,FALSE,Returning,7,North,52:10.3,System A,6
+538,539,54,Female,Rural,Electronics,23-06-2023,958.0052049,Debit Card,4,0.370842064,TRUE,1,TRUE,New,1,North,52:10.3,System A,6
+539,540,26,Male,Suburb,Electronics,24-06-2023,405.0449645,Debit Card,5,0.337615419,FALSE,2,TRUE,Returning,6,South,52:10.3,System A,6
+540,541,41,Male,City,Electronics,25-06-2023,841.4035906,Cash,7,0.102940994,FALSE,1,FALSE,Returning,7,East,52:10.3,System A,6
+541,542,52,Female,Suburb,Electronics,26-06-2023,196.6551997,Debit Card,2,0.176240523,FALSE,5,FALSE,New,7,West,52:10.3,System A,6
+542,543,52,Male,Rural,Electronics,27-06-2023,675.735893,Credit Card,6,0.063055071,FALSE,2,TRUE,Returning,2,North,52:10.3,System A,6
+543,544,53,Male,Suburb,Electronics,28-06-2023,977.2368849,Debit Card,1,0.064928507,FALSE,5,FALSE,Returning,6,South,52:10.3,System A,6
+544,545,35,Female,City,Home Appliances,29-06-2023,110.8741699,Cash,7,0.338097873,FALSE,3,FALSE,New,5,West,52:10.3,System A,6
+545,546,56,Male,Rural,Electronics,30-06-2023,18.2367428,Cash,9,0.429300053,FALSE,1,FALSE,New,6,West,52:10.3,System A,6
+546,547,49,Male,Suburb,Clothing,01-07-2023,439.2469647,Credit Card,5,0.481366292,FALSE,3,TRUE,Returning,7,West,52:10.3,System A,7
+547,548,41,Male,City,Electronics,02-07-2023,101.6992282,Cash,5,0.314173559,FALSE,1,FALSE,New,5,North,52:10.3,System A,7
+548,549,40,Female,Rural,Electronics,03-07-2023,750.9005062,Debit Card,4,0.092050662,FALSE,5,TRUE,Returning,6,West,52:10.3,System A,7
+549,550,49,Male,City,Home Appliances,04-07-2023,915.4031772,Cash,3,0.052825173,FALSE,4,FALSE,New,5,East,52:10.3,System A,7
+550,551,54,Female,Rural,Home Appliances,05-07-2023,439.680763,Credit Card,9,0.406425486,FALSE,2,TRUE,Returning,5,South,52:10.3,System A,7
+551,552,29,Female,Suburb,Clothing,06-07-2023,266.1245257,Cash,5,0.289378238,FALSE,5,FALSE,New,4,West,52:10.3,System A,7
+552,553,30,Male,City,Clothing,07-07-2023,440.0592858,Debit Card,8,0.309142511,FALSE,1,TRUE,Returning,1,West,52:10.3,System A,7
+553,554,40,Male,Rural,Home Appliances,08-07-2023,726.2133397,Credit Card,9,0.390731044,FALSE,1,FALSE,Returning,5,East,52:10.3,System A,7
+554,555,42,Male,City,Home Appliances,09-07-2023,18.96361996,Debit Card,5,0.351638614,FALSE,1,FALSE,New,2,West,52:10.3,System A,7
+555,556,52,Female,City,Electronics,10-07-2023,593.5594496,Credit Card,9,0.417229126,FALSE,1,TRUE,New,7,North,52:10.3,System A,7
+556,557,58,Male,Suburb,Home Appliances,11-07-2023,617.158768,Cash,2,0.028106953,FALSE,2,TRUE,Returning,7,North,52:10.3,System A,7
+557,558,47,Male,City,Clothing,12-07-2023,641.3113644,Credit Card,9,0.373760318,FALSE,3,FALSE,Returning,2,North,52:10.3,System A,7
+558,559,34,Male,Rural,Electronics,13-07-2023,249.6018592,Credit Card,4,0.425426379,FALSE,4,FALSE,New,3,West,52:10.3,System A,7
+559,560,37,Male,Rural,Clothing,14-07-2023,716.9121961,Cash,6,0.143067521,FALSE,2,FALSE,Returning,5,South,52:10.3,System A,7
+560,561,42,Male,Rural,Electronics,15-07-2023,100.4775715,Debit Card,6,0.320223637,FALSE,1,FALSE,New,5,South,52:10.3,System A,7
+561,562,39,Female,Rural,Home Appliances,16-07-2023,207.2776331,Cash,6,0.157081032,TRUE,2,FALSE,New,5,West,52:10.3,System A,7
+562,563,30,Female,Suburb,Clothing,17-07-2023,878.6953462,Credit Card,2,0.478985533,FALSE,5,FALSE,Returning,6,South,52:10.3,System A,7
+563,564,36,Male,City,Electronics,18-07-2023,741.3359192,Cash,7,0.016711786,FALSE,1,TRUE,Returning,5,South,52:10.3,System A,7
+564,565,53,Male,Suburb,Electronics,19-07-2023,23.60809847,Credit Card,6,0.289896422,FALSE,4,FALSE,New,5,West,52:10.3,System A,7
+565,566,29,Male,City,Home Appliances,20-07-2023,255.8924978,Cash,1,0.083251774,FALSE,1,TRUE,Returning,2,North,52:10.3,System A,7
+566,567,58,Male,City,Home Appliances,21-07-2023,222.2624182,Cash,2,0.356110103,FALSE,4,FALSE,New,1,West,52:10.3,System A,7
+567,568,36,Female,City,Home Appliances,22-07-2023,278.0982648,Debit Card,7,0.087945142,FALSE,4,FALSE,Returning,1,North,52:10.3,System A,7
+568,569,29,Male,Suburb,Clothing,23-07-2023,255.0841726,Credit Card,1,0.117691631,FALSE,3,FALSE,Returning,3,North,52:10.3,System A,7
+569,570,26,Female,City,Electronics,24-07-2023,71.90103279,Debit Card,1,0.247185406,FALSE,3,FALSE,Returning,2,South,52:10.3,System A,7
+570,571,24,Female,Suburb,Home Appliances,25-07-2023,464.3511114,Credit Card,1,0.457417475,FALSE,2,FALSE,Returning,5,South,52:10.3,System A,7
+571,572,45,Male,Rural,Clothing,26-07-2023,735.40614,Cash,8,0.105857186,FALSE,2,FALSE,New,1,North,52:10.3,System A,7
+572,573,31,Female,Rural,Clothing,27-07-2023,610.6644075,Credit Card,4,0.072120011,FALSE,4,TRUE,Returning,4,North,52:10.3,System A,7
+573,574,48,Female,City,Clothing,28-07-2023,676.1429519,Debit Card,4,0.379488416,TRUE,1,FALSE,Returning,4,South,52:10.3,System A,7
+574,575,36,Female,Suburb,Home Appliances,29-07-2023,90.33768675,Debit Card,2,0.250309766,FALSE,5,FALSE,New,4,East,52:10.3,System A,7
+575,576,64,Female,Rural,Home Appliances,30-07-2023,951.9758031,Debit Card,1,0.455892556,FALSE,5,FALSE,Returning,5,North,52:10.3,System A,7
+576,577,33,Male,Suburb,Electronics,31-07-2023,840.1069155,Credit Card,9,0.073307279,FALSE,1,TRUE,New,5,North,52:10.3,System A,7
+577,578,22,Male,Suburb,Electronics,01-08-2023,807.0394153,Debit Card,7,0.322963947,TRUE,1,TRUE,Returning,3,North,52:10.3,System A,8
+578,579,52,Female,City,Home Appliances,02-08-2023,824.753967,Debit Card,4,0.116439573,FALSE,3,TRUE,New,7,South,52:10.3,System A,8
+579,580,29,Male,Rural,Clothing,03-08-2023,933.3834031,Debit Card,6,0.078380214,FALSE,5,TRUE,New,3,West,52:10.3,System A,8
+580,581,42,Male,City,Clothing,04-08-2023,548.8114265,Cash,2,0.341714708,FALSE,4,FALSE,New,3,North,52:10.3,System A,8
+581,582,38,Male,City,Clothing,05-08-2023,208.2791977,Cash,7,0.29684231,FALSE,2,FALSE,Returning,6,North,52:10.3,System A,8
+582,583,53,Male,Rural,Electronics,06-08-2023,620.6157718,Credit Card,2,0.377413729,FALSE,3,FALSE,Returning,4,North,52:10.3,System A,8
+583,584,40,Male,Rural,Clothing,07-08-2023,745.4526787,Credit Card,8,0.154731288,FALSE,5,FALSE,New,5,West,52:10.3,System A,8
+584,585,33,Female,Suburb,Electronics,08-08-2023,740.5382194,Debit Card,8,0.223985828,FALSE,1,FALSE,New,4,West,52:10.3,System A,8
+585,586,56,Male,Rural,Electronics,09-08-2023,526.2345339,Cash,1,0.202735838,FALSE,5,TRUE,New,3,North,52:10.3,System A,8
+586,587,62,Male,Suburb,Clothing,10-08-2023,77.77413214,Debit Card,8,0.492044732,FALSE,4,FALSE,Returning,5,North,52:10.3,System A,8
+587,588,59,Male,Suburb,Clothing,11-08-2023,377.401809,Debit Card,2,0.146124478,FALSE,3,FALSE,Returning,2,East,52:10.3,System A,8
+588,589,56,Male,Suburb,Home Appliances,12-08-2023,921.5589424,Cash,6,0.147408619,FALSE,1,TRUE,New,1,West,52:10.3,System A,8
+589,590,31,Female,Rural,Home Appliances,13-08-2023,588.6044207,Cash,1,0.177274104,FALSE,4,FALSE,New,1,East,52:10.3,System A,8
+590,591,48,Female,City,Clothing,14-08-2023,542.9486238,Cash,5,0.282297041,FALSE,2,FALSE,Returning,3,North,52:10.3,System A,8
+591,592,22,Female,Suburb,Electronics,15-08-2023,276.1649792,Credit Card,7,0.126161372,FALSE,3,TRUE,New,7,North,52:10.3,System A,8
+592,593,52,Female,City,Electronics,16-08-2023,374.7644307,Credit Card,1,0.45764497,FALSE,4,TRUE,New,4,North,52:10.3,System A,8
+593,594,40,Male,City,Electronics,17-08-2023,896.3926283,Debit Card,2,0.132842782,FALSE,4,FALSE,New,2,North,52:10.3,System A,8
+594,595,46,Female,Rural,Electronics,18-08-2023,669.7984171,Credit Card,7,0.447907866,FALSE,1,TRUE,Returning,5,South,52:10.3,System A,8
+595,596,60,Male,City,Electronics,19-08-2023,789.5131565,Cash,6,0.051737532,FALSE,2,FALSE,Returning,7,South,52:10.3,System A,8
+596,597,28,Male,City,Home Appliances,20-08-2023,459.8019688,Cash,3,0.328281351,FALSE,4,TRUE,Returning,4,South,52:10.3,System A,8
+597,598,35,Male,Rural,Clothing,21-08-2023,633.9447473,Credit Card,2,0.453492759,FALSE,3,FALSE,New,3,East,52:10.3,System A,8
+598,599,64,Male,Suburb,Home Appliances,22-08-2023,255.8997727,Debit Card,4,0.084374719,TRUE,4,FALSE,Returning,4,West,52:10.3,System A,8
+599,600,29,Male,City,Electronics,23-08-2023,708.406222,Debit Card,3,0.48416348,FALSE,5,FALSE,New,3,North,52:10.3,System A,8
+600,601,26,Female,Rural,Electronics,24-08-2023,433.3253204,Credit Card,7,0.22644168,FALSE,3,FALSE,Returning,6,West,52:10.3,System A,8
+601,602,27,Female,City,Electronics,25-08-2023,448.1200597,Debit Card,8,0.472857554,FALSE,3,TRUE,Returning,1,South,52:10.3,System A,8
+602,603,61,Female,City,Electronics,26-08-2023,652.8291013,Debit Card,2,0.338410022,FALSE,4,FALSE,Returning,7,North,52:10.3,System A,8
+603,604,34,Female,Suburb,Clothing,27-08-2023,936.9178153,Debit Card,7,0.150793435,FALSE,1,FALSE,New,1,North,52:10.3,System A,8
+604,605,55,Male,City,Electronics,28-08-2023,73.36628314,Cash,8,0.094151262,TRUE,3,TRUE,New,4,East,52:10.3,System A,8
+605,606,24,Female,Rural,Clothing,29-08-2023,826.495805,Cash,6,0.151867523,FALSE,5,TRUE,Returning,2,West,52:10.3,System A,8
+606,607,63,Male,City,Electronics,30-08-2023,299.4592793,Credit Card,6,0.046508705,FALSE,1,FALSE,Returning,5,East,52:10.3,System A,8
+607,608,30,Female,Suburb,Clothing,31-08-2023,449.48026,Cash,1,0.071933983,FALSE,1,FALSE,New,3,South,52:10.3,System A,8
+608,609,57,Male,Suburb,Home Appliances,01-09-2023,31.69419549,Debit Card,4,0.05233022,FALSE,1,FALSE,Returning,5,West,52:10.3,System A,9
+609,610,59,Male,Rural,Electronics,02-09-2023,308.0356171,Cash,1,0.211471772,TRUE,3,FALSE,Returning,1,South,52:10.3,System A,9
+610,611,26,Female,Suburb,Clothing,03-09-2023,507.6049302,Credit Card,4,0.397789188,FALSE,1,FALSE,Returning,2,East,52:10.3,System A,9
+611,612,44,Male,City,Home Appliances,04-09-2023,65.61431657,Cash,2,0.070691777,FALSE,4,FALSE,Returning,2,East,52:10.3,System A,9
+612,613,19,Male,Suburb,Electronics,05-09-2023,496.1847721,Debit Card,5,0.065160217,FALSE,1,FALSE,New,5,North,52:10.3,System A,9
+613,614,22,Female,Rural,Electronics,06-09-2023,927.8395226,Debit Card,9,0.321714475,TRUE,5,TRUE,New,1,West,52:10.3,System A,9
+614,615,46,Male,Suburb,Electronics,07-09-2023,114.3392859,Credit Card,3,0.098591491,FALSE,2,FALSE,New,5,West,52:10.3,System A,9
+615,616,54,Female,Suburb,Clothing,08-09-2023,766.7963208,Cash,8,0.048805019,TRUE,5,FALSE,Returning,4,North,52:10.3,System A,9
+616,617,55,Female,Suburb,Clothing,09-09-2023,415.5743428,Cash,3,0.083424289,FALSE,3,FALSE,New,2,West,52:10.3,System A,9
+617,618,36,Female,Rural,Home Appliances,10-09-2023,658.6219774,Cash,6,0.461865698,FALSE,1,FALSE,Returning,2,South,52:10.3,System A,9
+618,619,25,Male,Suburb,Clothing,11-09-2023,267.634232,Debit Card,4,0.410735626,FALSE,1,FALSE,New,4,South,52:10.3,System A,9
+619,620,62,Male,Suburb,Clothing,12-09-2023,167.8973399,Credit Card,8,0.177032281,FALSE,4,FALSE,New,1,East,52:10.3,System A,9
+620,621,18,Male,City,Electronics,13-09-2023,168.8579881,Cash,6,0.327910384,FALSE,1,TRUE,Returning,2,South,52:10.3,System A,9
+621,622,39,Female,Rural,Electronics,14-09-2023,79.78702619,Debit Card,8,0.268637837,FALSE,5,TRUE,New,7,West,52:10.3,System A,9
+622,623,34,Male,Suburb,Electronics,15-09-2023,193.7902379,Debit Card,1,0.338562132,FALSE,3,FALSE,New,6,North,52:10.3,System A,9
+623,624,24,Female,Rural,Electronics,16-09-2023,667.5771911,Debit Card,6,0.341335576,FALSE,2,FALSE,Returning,6,East,52:10.3,System A,9
+624,625,42,Female,Suburb,Electronics,17-09-2023,882.8737057,Cash,1,0.314367008,FALSE,1,TRUE,New,6,North,52:10.3,System A,9
+625,626,62,Male,Suburb,Electronics,18-09-2023,815.9844287,Cash,1,0.133050684,TRUE,2,FALSE,New,3,East,52:10.3,System A,9
+626,627,21,Female,Suburb,Electronics,19-09-2023,688.2829668,Cash,8,0.01950321,FALSE,1,TRUE,New,7,East,52:10.3,System A,9
+627,628,53,Male,City,Home Appliances,20-09-2023,119.3275448,Cash,7,0.227783391,FALSE,3,FALSE,Returning,3,North,52:10.3,System A,9
+628,629,23,Male,City,Home Appliances,21-09-2023,296.2955718,Cash,3,0.445486942,FALSE,5,FALSE,Returning,1,South,52:10.3,System A,9
+629,630,48,Male,City,Home Appliances,22-09-2023,316.7088066,Cash,6,0.284748629,FALSE,3,FALSE,Returning,4,South,52:10.3,System A,9
+630,631,36,Male,Rural,Home Appliances,23-09-2023,257.4573769,Cash,9,0.416195521,FALSE,2,TRUE,New,5,South,52:10.3,System A,9
+631,632,61,Male,Rural,Electronics,24-09-2023,519.8556031,Cash,7,0.495812171,FALSE,1,FALSE,New,7,South,52:10.3,System A,9
+632,633,56,Female,City,Home Appliances,25-09-2023,540.1982767,Cash,3,0.081808102,FALSE,2,FALSE,Returning,1,North,52:10.3,System A,9
+633,634,44,Female,Rural,Electronics,26-09-2023,363.3171154,Debit Card,6,0.34588882,FALSE,5,FALSE,Returning,5,West,52:10.3,System A,9
+634,635,27,Female,Suburb,Home Appliances,27-09-2023,360.2512671,Cash,4,0.337146787,FALSE,3,FALSE,New,1,East,52:10.3,System A,9
+635,636,43,Male,Suburb,Clothing,28-09-2023,830.2700419,Credit Card,3,0.489977724,TRUE,2,FALSE,New,3,North,52:10.3,System A,9
+636,637,36,Male,Suburb,Home Appliances,29-09-2023,791.3999198,Debit Card,9,0.492800367,FALSE,2,FALSE,Returning,6,South,52:10.3,System A,9
+637,638,56,Male,City,Home Appliances,30-09-2023,314.7178734,Cash,2,0.343339306,FALSE,5,TRUE,Returning,4,South,52:10.3,System A,9
+638,639,20,Female,Rural,Electronics,01-10-2023,914.6505594,Credit Card,1,0.121807396,FALSE,1,FALSE,New,3,North,52:10.3,System A,10
+639,640,62,Male,City,Home Appliances,02-10-2023,953.2868668,Cash,2,0.399277919,FALSE,2,FALSE,New,4,East,52:10.3,System A,10
+640,641,30,Female,Rural,Clothing,03-10-2023,333.4751166,Credit Card,7,0.053514567,FALSE,5,FALSE,New,7,North,52:10.3,System A,10
+641,642,45,Female,Suburb,Electronics,04-10-2023,360.8806993,Credit Card,1,0.390349652,TRUE,1,TRUE,New,5,North,52:10.3,System A,10
+642,643,37,Male,City,Electronics,05-10-2023,510.5778119,Credit Card,6,0.455098062,TRUE,1,TRUE,Returning,1,West,52:10.3,System A,10
+643,644,45,Male,Rural,Home Appliances,06-10-2023,941.7096044,Credit Card,7,0.191416697,FALSE,3,TRUE,Returning,2,North,52:10.3,System A,10
+644,645,25,Female,Rural,Electronics,07-10-2023,877.5562388,Debit Card,9,0.315317647,FALSE,5,FALSE,Returning,2,West,52:10.3,System A,10
+645,646,58,Male,Suburb,Electronics,08-10-2023,111.542283,Debit Card,8,0.215071366,FALSE,1,FALSE,New,4,East,52:10.3,System A,10
+646,647,56,Female,City,Electronics,09-10-2023,398.8034358,Credit Card,6,0.218882527,FALSE,3,FALSE,New,6,North,52:10.3,System A,10
+647,648,18,Male,City,Electronics,10-10-2023,557.8374779,Cash,3,0.155185445,FALSE,4,FALSE,New,6,North,52:10.3,System A,10
+648,649,20,Male,City,Electronics,11-10-2023,508.1011478,Credit Card,8,0.38106481,FALSE,5,TRUE,New,4,South,52:10.3,System A,10
+649,650,30,Female,Suburb,Electronics,12-10-2023,201.9244373,Debit Card,7,0.468088282,FALSE,4,FALSE,Returning,3,North,52:10.3,System A,10
+650,651,45,Male,City,Clothing,13-10-2023,860.2286035,Cash,3,0.47037543,FALSE,1,FALSE,New,2,South,52:10.3,System A,10
+651,652,42,Female,Suburb,Home Appliances,14-10-2023,680.1713752,Debit Card,9,0.087390642,FALSE,5,FALSE,New,3,South,52:10.3,System A,10
+652,653,50,Male,Suburb,Clothing,15-10-2023,839.5292911,Debit Card,2,0.437371825,FALSE,3,FALSE,New,5,South,52:10.3,System A,10
+653,654,55,Female,Suburb,Electronics,16-10-2023,860.1766366,Cash,3,0.368715721,FALSE,1,FALSE,Returning,2,East,52:10.3,System A,10
+654,655,23,Female,Rural,Electronics,17-10-2023,750.8722951,Credit Card,2,0.1264187,FALSE,5,FALSE,Returning,5,West,52:10.3,System A,10
+655,656,61,Male,City,Home Appliances,18-10-2023,444.8184952,Credit Card,1,0.033642306,FALSE,5,TRUE,Returning,1,South,52:10.3,System A,10
+656,657,62,Female,City,Clothing,19-10-2023,614.4412875,Credit Card,4,0.133998633,FALSE,4,FALSE,New,3,North,52:10.3,System A,10
+657,658,49,Male,Suburb,Home Appliances,20-10-2023,168.7617521,Credit Card,5,0.456104118,FALSE,1,FALSE,Returning,4,North,52:10.3,System A,10
+658,659,62,Male,Suburb,Clothing,21-10-2023,676.9089633,Cash,6,0.316589337,FALSE,3,FALSE,New,2,South,52:10.3,System A,10
+659,660,64,Male,City,Electronics,22-10-2023,187.4607232,Cash,5,0.36052733,FALSE,3,TRUE,New,3,South,52:10.3,System A,10
+660,661,38,Female,Suburb,Home Appliances,23-10-2023,697.0100946,Cash,1,0.128576176,FALSE,1,TRUE,Returning,4,North,52:10.3,System A,10
+661,662,33,Female,City,Home Appliances,24-10-2023,237.3021791,Debit Card,3,0.359694078,FALSE,1,FALSE,New,1,South,52:10.3,System A,10
+662,663,38,Male,Rural,Electronics,25-10-2023,126.3757871,Cash,1,0.014060753,FALSE,2,FALSE,Returning,2,West,52:10.3,System A,10
+663,664,28,Male,Suburb,Home Appliances,26-10-2023,173.6316452,Credit Card,5,0.187660673,FALSE,4,FALSE,New,5,West,52:10.3,System A,10
+664,665,54,Female,City,Clothing,27-10-2023,11.97221387,Debit Card,5,0.313376674,FALSE,1,TRUE,Returning,1,East,52:10.3,System A,10
+665,666,53,Male,Suburb,Clothing,28-10-2023,721.5522217,Credit Card,6,0.073048283,FALSE,1,TRUE,Returning,6,South,52:10.3,System A,10
+666,667,52,Male,City,Clothing,29-10-2023,735.0770386,Credit Card,8,0.411501787,FALSE,2,FALSE,Returning,4,East,52:10.3,System A,10
+667,668,36,Female,City,Clothing,30-10-2023,519.7840164,Cash,1,0.117515649,TRUE,2,FALSE,Returning,2,East,52:10.3,System A,10
+668,669,37,Male,Suburb,Electronics,31-10-2023,169.749173,Cash,4,0.326140556,FALSE,5,FALSE,Returning,2,East,52:10.3,System A,10
+669,670,35,Female,Rural,Home Appliances,01-11-2023,92.71879414,Credit Card,1,0.202598571,FALSE,3,FALSE,New,7,South,52:10.3,System A,11
+670,671,64,Male,City,Clothing,02-11-2023,28.93767677,Credit Card,9,0.298021798,FALSE,4,FALSE,Returning,7,East,52:10.3,System A,11
+671,672,58,Female,City,Electronics,03-11-2023,174.0906952,Debit Card,7,0.053725276,FALSE,5,TRUE,Returning,1,West,52:10.3,System A,11
+672,673,31,Male,City,Home Appliances,04-11-2023,891.9469796,Cash,7,0.0084564,FALSE,1,TRUE,New,2,East,52:10.3,System A,11
+673,674,32,Male,Rural,Home Appliances,05-11-2023,249.1214733,Debit Card,5,0.454782214,FALSE,2,FALSE,Returning,4,West,52:10.3,System A,11
+674,675,48,Female,Rural,Electronics,06-11-2023,360.7286139,Debit Card,7,0.134815004,FALSE,3,FALSE,Returning,1,West,52:10.3,System A,11
+675,676,18,Male,Suburb,Electronics,07-11-2023,114.2920296,Debit Card,2,0.409838501,FALSE,5,TRUE,Returning,5,South,52:10.3,System A,11
+676,677,20,Female,Rural,Clothing,08-11-2023,230.1376917,Credit Card,4,0.49967515,FALSE,3,FALSE,New,1,East,52:10.3,System A,11
+677,678,33,Male,Suburb,Home Appliances,09-11-2023,524.0323251,Debit Card,7,0.105715629,FALSE,2,FALSE,Returning,1,South,52:10.3,System A,11
+678,679,40,Female,Suburb,Home Appliances,10-11-2023,611.6751563,Debit Card,3,0.132585371,FALSE,5,TRUE,New,5,West,52:10.3,System A,11
+679,680,28,Female,Rural,Electronics,11-11-2023,252.898791,Credit Card,2,0.331429894,FALSE,5,TRUE,New,6,North,52:10.3,System A,11
+680,681,29,Female,Suburb,Home Appliances,12-11-2023,67.15483763,Cash,2,0.482724317,FALSE,3,TRUE,Returning,7,East,52:10.3,System A,11
+681,682,27,Female,Rural,Clothing,13-11-2023,397.1225404,Cash,1,0.457907174,FALSE,2,FALSE,New,4,South,52:10.3,System A,11
+682,683,49,Male,Suburb,Home Appliances,14-11-2023,241.8613372,Debit Card,5,0.25143776,FALSE,1,TRUE,Returning,6,North,52:10.3,System A,11
+683,684,33,Male,Rural,Electronics,15-11-2023,227.358384,Credit Card,6,0.397555141,FALSE,5,FALSE,New,6,East,52:10.3,System A,11
+684,685,25,Female,Rural,Electronics,16-11-2023,960.2641747,Cash,6,0.067872927,FALSE,1,FALSE,New,6,East,52:10.3,System A,11
+685,686,55,Female,Suburb,Clothing,17-11-2023,620.1374811,Debit Card,9,0.488719092,FALSE,2,TRUE,New,7,South,52:10.3,System A,11
+686,687,29,Female,City,Clothing,18-11-2023,561.3096587,Debit Card,4,0.482176617,TRUE,5,TRUE,Returning,3,North,52:10.3,System A,11
+687,688,41,Male,Suburb,Home Appliances,19-11-2023,421.6173525,Credit Card,1,0.081864479,FALSE,5,TRUE,Returning,7,South,52:10.3,System A,11
+688,689,45,Male,Rural,Home Appliances,20-11-2023,434.6548901,Debit Card,6,0.149711562,TRUE,1,FALSE,New,6,East,52:10.3,System A,11
+689,690,25,Male,City,Electronics,21-11-2023,545.4959538,Cash,5,0.050077499,FALSE,4,TRUE,New,3,East,52:10.3,System A,11
+690,691,45,Male,Suburb,Clothing,22-11-2023,699.465509,Credit Card,6,0.135858799,FALSE,1,TRUE,New,5,West,52:10.3,System A,11
+691,692,53,Female,Suburb,Clothing,23-11-2023,705.1246352,Cash,3,0.407977895,FALSE,1,FALSE,Returning,7,East,52:10.3,System A,11
+692,693,43,Female,Suburb,Clothing,24-11-2023,179.9769686,Cash,2,0.189157804,FALSE,4,TRUE,New,4,East,52:10.3,System A,11
+693,694,25,Female,City,Home Appliances,25-11-2023,505.1116246,Cash,6,0.044198484,FALSE,2,FALSE,Returning,6,North,52:10.3,System A,11
+694,695,45,Male,Rural,Clothing,26-11-2023,417.8385141,Debit Card,1,0.171112762,FALSE,2,FALSE,Returning,2,North,52:10.3,System A,11
+695,696,45,Male,Suburb,Electronics,27-11-2023,871.8216966,Debit Card,7,0.490691667,FALSE,5,FALSE,Returning,5,West,52:10.3,System A,11
+696,697,54,Male,Suburb,Electronics,28-11-2023,635.104732,Cash,7,0.314841798,FALSE,3,FALSE,Returning,3,West,52:10.3,System A,11
+697,698,58,Female,Suburb,Home Appliances,29-11-2023,537.1790258,Cash,7,0.208080473,FALSE,3,TRUE,Returning,7,West,52:10.3,System A,11
+698,699,53,Female,Suburb,Home Appliances,30-11-2023,124.2406958,Credit Card,1,0.083269257,FALSE,5,FALSE,New,4,South,52:10.3,System A,11
+699,700,44,Male,Suburb,Clothing,01-12-2023,609.5815104,Credit Card,4,0.493088399,TRUE,3,FALSE,Returning,1,South,52:10.3,System A,12
+700,701,34,Female,Rural,Home Appliances,02-12-2023,126.0318666,Debit Card,7,0.410424505,TRUE,1,FALSE,Returning,4,West,52:10.3,System A,12
+701,702,26,Male,Rural,Electronics,03-12-2023,343.8345098,Debit Card,9,0.140738651,FALSE,1,TRUE,New,4,South,52:10.3,System A,12
+702,703,50,Male,Suburb,Clothing,04-12-2023,151.4135452,Credit Card,5,0.035034348,FALSE,4,FALSE,Returning,6,East,52:10.3,System A,12
+703,704,37,Female,City,Electronics,05-12-2023,695.1529106,Cash,2,0.028312779,FALSE,4,TRUE,New,6,West,52:10.3,System A,12
+704,705,30,Male,Rural,Clothing,06-12-2023,214.1895927,Debit Card,7,0.060189075,FALSE,5,FALSE,New,7,West,52:10.3,System A,12
+705,706,45,Female,City,Home Appliances,07-12-2023,397.9407795,Cash,1,0.290384292,FALSE,5,FALSE,New,7,South,52:10.3,System A,12
+706,707,46,Male,Rural,Clothing,08-12-2023,896.7180298,Credit Card,7,0.464381711,FALSE,5,TRUE,Returning,3,North,52:10.3,System A,12
+707,708,30,Female,Suburb,Clothing,09-12-2023,212.2732196,Debit Card,6,0.248371714,FALSE,1,FALSE,Returning,7,West,52:10.3,System A,12
+708,709,63,Female,Rural,Electronics,10-12-2023,512.7270133,Debit Card,7,0.421472741,FALSE,3,FALSE,Returning,3,South,52:10.3,System A,12
+709,710,52,Female,Suburb,Electronics,11-12-2023,425.0789446,Credit Card,3,0.22294331,FALSE,5,FALSE,New,6,South,52:10.3,System A,12
+710,711,23,Male,Rural,Clothing,12-12-2023,27.94280064,Debit Card,3,0.354291773,FALSE,5,FALSE,Returning,6,North,52:10.3,System A,12
+711,712,35,Male,Suburb,Home Appliances,13-12-2023,794.8305324,Credit Card,7,0.365936369,FALSE,1,FALSE,New,2,West,52:10.3,System A,12
+712,713,22,Female,Suburb,Home Appliances,14-12-2023,78.35544725,Debit Card,2,0.086981853,FALSE,1,FALSE,Returning,2,North,52:10.3,System A,12
+713,714,64,Female,Suburb,Electronics,15-12-2023,479.5124708,Credit Card,1,0.180608029,FALSE,1,TRUE,New,5,East,52:10.3,System A,12
+714,715,42,Male,Suburb,Home Appliances,16-12-2023,565.071512,Debit Card,9,0.318651078,FALSE,3,FALSE,New,6,North,52:10.3,System A,12
+715,716,19,Male,City,Electronics,17-12-2023,632.142192,Cash,9,0.035348304,FALSE,5,TRUE,New,1,North,52:10.3,System A,12
+716,717,27,Male,Suburb,Home Appliances,18-12-2023,691.745313,Cash,7,0.180770094,FALSE,2,FALSE,Returning,2,South,52:10.3,System A,12
+717,718,47,Female,City,Clothing,19-12-2023,260.7396597,Cash,7,0.267399733,FALSE,2,FALSE,Returning,3,North,52:10.3,System A,12
+718,719,62,Male,City,Electronics,20-12-2023,19.87898889,Debit Card,3,0.498112247,FALSE,5,FALSE,Returning,4,East,52:10.3,System A,12
+719,720,22,Male,Suburb,Electronics,21-12-2023,726.2092257,Debit Card,2,0.237266781,TRUE,5,FALSE,Returning,7,South,52:10.3,System A,12
+720,721,50,Female,City,Clothing,22-12-2023,540.3000334,Cash,7,0.408028379,FALSE,5,FALSE,Returning,7,East,52:10.3,System A,12
+721,722,18,Male,Rural,Electronics,23-12-2023,837.7565262,Cash,9,0.216033643,FALSE,5,FALSE,Returning,5,North,52:10.3,System A,12
+722,723,35,Male,Suburb,Home Appliances,24-12-2023,823.1744793,Credit Card,1,0.398195361,FALSE,3,FALSE,Returning,2,East,52:10.3,System A,12
+723,724,49,Male,City,Home Appliances,25-12-2023,844.8929061,Credit Card,4,0.297707401,FALSE,2,FALSE,New,4,East,52:10.3,System A,12
+724,725,64,Female,Suburb,Electronics,26-12-2023,490.2437134,Credit Card,6,0.443297721,FALSE,4,FALSE,New,4,North,52:10.3,System A,12
+725,726,28,Female,Suburb,Home Appliances,27-12-2023,340.2921119,Cash,7,0.205471276,FALSE,2,FALSE,Returning,2,North,52:10.3,System A,12
+726,727,38,Female,Suburb,Electronics,28-12-2023,793.6426206,Cash,7,0.30215221,FALSE,2,TRUE,Returning,1,South,52:10.3,System A,12
+727,728,43,Female,City,Clothing,29-12-2023,456.7811719,Cash,2,0.31500934,FALSE,1,FALSE,New,1,South,52:10.3,System A,12
+728,729,42,Female,Rural,Electronics,30-12-2023,191.6077744,Credit Card,4,0.208691471,FALSE,5,FALSE,Returning,5,West,52:10.3,System A,12
+729,730,39,Female,Rural,Clothing,31-12-2023,856.4242794,Debit Card,5,0.072156022,FALSE,5,FALSE,Returning,1,South,52:10.3,System A,12
+730,731,44,Female,City,Home Appliances,01-01-2024,883.734278,Cash,1,0.046779703,FALSE,5,FALSE,New,5,North,52:10.3,System A,1
+731,732,30,Male,Suburb,Clothing,02-01-2024,471.6466586,Debit Card,1,0.008335775,TRUE,1,FALSE,Returning,3,East,52:10.3,System A,1
+732,733,50,Male,City,Home Appliances,03-01-2024,84.94273004,Debit Card,3,0.436767132,FALSE,3,FALSE,Returning,2,East,52:10.3,System A,1
+733,734,51,Female,City,Electronics,04-01-2024,393.947829,Debit Card,3,0.118237456,FALSE,3,FALSE,Returning,4,South,52:10.3,System A,1
+734,735,58,Male,City,Home Appliances,05-01-2024,805.5022829,Credit Card,8,0.105753375,FALSE,4,TRUE,New,5,South,52:10.3,System A,1
+735,736,52,Male,Suburb,Electronics,06-01-2024,902.7562883,Debit Card,9,0.3680177,FALSE,3,FALSE,Returning,7,North,52:10.3,System A,1
+736,737,18,Female,City,Electronics,07-01-2024,211.4380151,Cash,1,0.160008057,FALSE,3,FALSE,Returning,1,East,52:10.3,System A,1
+737,738,38,Male,Suburb,Clothing,08-01-2024,76.30387591,Credit Card,2,0.253022346,TRUE,5,TRUE,Returning,7,West,52:10.3,System A,1
+738,739,23,Male,City,Clothing,09-01-2024,878.5769486,Cash,2,0.081255533,FALSE,2,FALSE,Returning,5,West,52:10.3,System A,1
+739,740,45,Male,Rural,Clothing,10-01-2024,395.5108896,Cash,4,0.479872861,FALSE,3,FALSE,New,6,South,52:10.3,System A,1
+740,741,34,Male,City,Clothing,11-01-2024,546.3433546,Credit Card,2,0.4257907,FALSE,3,FALSE,Returning,5,West,52:10.3,System A,1
+741,742,22,Male,City,Home Appliances,12-01-2024,968.3851539,Cash,7,0.431894811,FALSE,1,FALSE,New,1,North,52:10.3,System A,1
+742,743,48,Female,Rural,Home Appliances,13-01-2024,75.89908064,Cash,9,0.203386874,TRUE,4,FALSE,Returning,6,West,52:10.3,System A,1
+743,744,22,Female,Suburb,Home Appliances,14-01-2024,651.8348274,Credit Card,7,0.381180607,FALSE,1,FALSE,Returning,6,South,52:10.3,System A,1
+744,745,55,Female,Suburb,Electronics,15-01-2024,83.36436835,Cash,6,0.071938078,FALSE,5,FALSE,Returning,1,North,52:10.3,System A,1
+745,746,20,Male,City,Home Appliances,16-01-2024,381.7142392,Debit Card,1,0.004309501,FALSE,2,FALSE,Returning,6,East,52:10.3,System A,1
+746,747,40,Female,Rural,Home Appliances,17-01-2024,805.7763997,Cash,9,0.009986466,FALSE,4,FALSE,Returning,2,North,52:10.3,System A,1
+747,748,54,Male,Suburb,Home Appliances,18-01-2024,439.1375104,Debit Card,5,0.293300869,FALSE,1,FALSE,New,4,South,52:10.3,System A,1
+748,749,54,Male,City,Clothing,19-01-2024,997.2105304,Cash,5,0.227697453,TRUE,3,FALSE,Returning,7,South,52:10.3,System A,1
+749,750,27,Male,Rural,Home Appliances,20-01-2024,563.4686921,Credit Card,6,0.259007674,FALSE,3,FALSE,New,2,West,52:10.3,System A,1
+750,751,27,Male,Suburb,Electronics,21-01-2024,327.9505311,Credit Card,9,0.00373157,FALSE,4,FALSE,Returning,2,West,52:10.3,System A,1
+751,752,36,Female,Suburb,Clothing,22-01-2024,227.9102126,Cash,8,0.21134331,TRUE,3,FALSE,New,1,East,52:10.3,System A,1
+752,753,34,Female,Rural,Electronics,23-01-2024,357.0153289,Credit Card,8,0.359034081,FALSE,1,FALSE,Returning,1,East,52:10.3,System A,1
+753,754,38,Male,Rural,Home Appliances,24-01-2024,378.807941,Cash,8,0.221346851,FALSE,1,FALSE,Returning,7,South,52:10.3,System A,1
+754,755,31,Female,Rural,Clothing,25-01-2024,78.02654095,Credit Card,1,0.366109603,FALSE,3,FALSE,Returning,4,South,52:10.3,System A,1
+755,756,26,Male,Rural,Electronics,26-01-2024,375.8784574,Debit Card,1,0.116509482,FALSE,3,FALSE,New,5,South,52:10.3,System A,1
+756,757,63,Female,City,Home Appliances,27-01-2024,469.5961345,Cash,8,0.406571002,FALSE,5,FALSE,Returning,2,East,52:10.3,System A,1
+757,758,18,Female,Rural,Electronics,28-01-2024,725.5103747,Debit Card,5,0.29421562,FALSE,2,FALSE,Returning,6,South,52:10.3,System A,1
+758,759,62,Male,Suburb,Electronics,29-01-2024,660.1621899,Debit Card,9,0.10538155,FALSE,4,FALSE,Returning,4,East,52:10.3,System A,1
+759,760,30,Female,Suburb,Electronics,30-01-2024,711.6779987,Cash,2,0.118360238,TRUE,1,FALSE,Returning,2,South,52:10.3,System A,1
+760,761,21,Male,City,Home Appliances,31-01-2024,18.28004506,Debit Card,9,0.314015232,FALSE,4,TRUE,Returning,5,North,52:10.3,System A,1
+761,762,18,Female,Suburb,Home Appliances,01-02-2024,225.4907256,Cash,8,0.414969797,FALSE,5,FALSE,Returning,6,North,52:10.3,System A,2
+762,763,57,Male,Suburb,Electronics,02-02-2024,665.0674455,Debit Card,9,0.207813891,FALSE,1,FALSE,New,2,South,52:10.3,System A,2
+763,764,49,Male,Rural,Clothing,03-02-2024,489.1494745,Cash,4,0.129150215,FALSE,5,FALSE,Returning,3,North,52:10.3,System A,2
+764,765,51,Female,Suburb,Clothing,04-02-2024,15.26034091,Cash,1,0.433505803,FALSE,5,FALSE,Returning,7,East,52:10.3,System A,2
+765,766,45,Female,City,Home Appliances,05-02-2024,806.449696,Credit Card,1,0.334634146,FALSE,3,FALSE,Returning,4,West,52:10.3,System A,2
+766,767,48,Male,Rural,Home Appliances,06-02-2024,775.0814776,Cash,5,0.224042744,FALSE,4,FALSE,New,7,North,52:10.3,System A,2
+767,768,25,Female,Rural,Home Appliances,07-02-2024,552.9349714,Cash,2,0.243950098,FALSE,4,FALSE,Returning,1,West,52:10.3,System A,2
+768,769,56,Female,City,Home Appliances,08-02-2024,75.79869252,Debit Card,8,0.102128234,FALSE,3,TRUE,Returning,2,North,52:10.3,System A,2
+769,770,43,Male,Rural,Home Appliances,09-02-2024,768.849899,Cash,5,0.313401315,FALSE,4,FALSE,New,6,East,52:10.3,System A,2
+770,771,51,Male,Rural,Clothing,10-02-2024,587.8764519,Credit Card,5,0.179371255,FALSE,3,FALSE,Returning,6,North,52:10.3,System A,2
+771,772,20,Female,City,Home Appliances,11-02-2024,784.1403774,Debit Card,2,0.497822588,FALSE,1,FALSE,New,4,North,52:10.3,System A,2
+772,773,29,Male,Rural,Electronics,12-02-2024,754.2295225,Debit Card,7,0.240091758,FALSE,5,TRUE,New,4,South,52:10.3,System A,2
+773,774,18,Male,City,Electronics,13-02-2024,804.9720512,Credit Card,8,0.242942803,FALSE,5,TRUE,Returning,7,West,52:10.3,System A,2
+774,775,61,Male,City,Clothing,14-02-2024,522.8279857,Debit Card,1,0.282925894,FALSE,4,FALSE,Returning,6,West,52:10.3,System A,2
+775,776,22,Female,Suburb,Electronics,15-02-2024,148.921273,Debit Card,2,0.458378002,FALSE,2,TRUE,New,6,East,52:10.3,System A,2
+776,777,47,Female,Suburb,Clothing,16-02-2024,674.4458986,Debit Card,4,0.40040905,FALSE,5,TRUE,Returning,6,East,52:10.3,System A,2
+777,778,47,Male,Rural,Clothing,17-02-2024,624.2690472,Debit Card,5,0.225565035,FALSE,3,TRUE,Returning,2,West,52:10.3,System A,2
+778,779,34,Female,Rural,Electronics,18-02-2024,744.8306553,Credit Card,2,0.359349633,FALSE,2,FALSE,Returning,6,South,52:10.3,System A,2
+779,780,64,Male,City,Home Appliances,19-02-2024,178.182196,Credit Card,1,0.293117749,FALSE,2,FALSE,Returning,1,South,52:10.3,System A,2
+780,781,40,Female,Rural,Electronics,20-02-2024,203.0254479,Debit Card,9,0.246183524,FALSE,5,TRUE,Returning,6,West,52:10.3,System A,2
+781,782,32,Male,City,Electronics,21-02-2024,891.505422,Debit Card,1,0.096157886,FALSE,5,TRUE,Returning,1,North,52:10.3,System A,2
+782,783,54,Male,City,Clothing,22-02-2024,752.4780205,Credit Card,4,0.231968132,FALSE,5,FALSE,New,2,West,52:10.3,System A,2
+783,784,38,Female,Rural,Electronics,23-02-2024,909.1462038,Credit Card,2,0.122909294,FALSE,3,FALSE,Returning,4,North,52:10.3,System A,2
+784,785,31,Male,City,Clothing,24-02-2024,761.128168,Credit Card,4,0.457421075,FALSE,2,TRUE,Returning,1,West,52:10.3,System A,2
+785,786,19,Female,Suburb,Home Appliances,25-02-2024,601.1837529,Debit Card,8,0.167703407,TRUE,4,FALSE,Returning,2,North,52:10.3,System A,2
+786,787,28,Female,Rural,Home Appliances,26-02-2024,657.5914097,Debit Card,8,0.476132007,FALSE,3,FALSE,New,6,South,52:10.3,System A,2
+787,788,56,Male,Suburb,Home Appliances,27-02-2024,890.2366447,Cash,9,0.266527645,FALSE,1,FALSE,Returning,2,West,52:10.3,System A,2
+788,789,55,Male,Rural,Electronics,28-02-2024,583.018687,Credit Card,5,0.315772189,FALSE,5,FALSE,New,6,East,52:10.3,System A,2
+789,790,51,Female,City,Clothing,29-02-2024,636.0674111,Debit Card,7,0.271470222,FALSE,2,FALSE,Returning,7,North,52:10.3,System A,2
+790,791,55,Male,Rural,Home Appliances,01-03-2024,164.9119488,Credit Card,3,0.064690308,TRUE,3,FALSE,New,2,South,52:10.3,System A,3
+791,792,51,Male,Suburb,Clothing,02-03-2024,479.1820079,Debit Card,4,0.18791061,FALSE,1,FALSE,Returning,4,East,52:10.3,System A,3
+792,793,35,Male,City,Clothing,03-03-2024,719.2331408,Credit Card,9,0.049573056,FALSE,3,FALSE,Returning,1,South,52:10.3,System A,3
+793,794,47,Male,Rural,Home Appliances,04-03-2024,278.2332713,Debit Card,1,0.311477022,TRUE,3,FALSE,Returning,7,North,52:10.3,System A,3
+794,795,32,Male,Rural,Home Appliances,05-03-2024,210.2316387,Cash,2,0.223437098,FALSE,4,FALSE,New,4,West,52:10.3,System A,3
+795,796,44,Female,Rural,Clothing,06-03-2024,320.6885401,Cash,5,0.388992486,FALSE,4,FALSE,New,3,South,52:10.3,System A,3
+796,797,51,Female,Suburb,Home Appliances,07-03-2024,249.0856217,Credit Card,3,0.11023524,FALSE,3,FALSE,New,6,West,52:10.3,System A,3
+797,798,55,Male,Suburb,Clothing,08-03-2024,222.7635107,Debit Card,2,0.082283029,FALSE,1,TRUE,New,1,West,52:10.3,System A,3
+798,799,50,Male,Rural,Clothing,09-03-2024,430.6023344,Debit Card,1,0.203166115,FALSE,2,FALSE,Returning,4,South,52:10.3,System A,3
+799,800,41,Male,City,Home Appliances,10-03-2024,908.7601287,Credit Card,3,0.463292692,FALSE,2,TRUE,New,1,South,52:10.3,System A,3
+800,801,32,Female,City,Electronics,11-03-2024,511.9890503,Debit Card,1,0.355210908,FALSE,5,TRUE,Returning,3,South,52:10.3,System A,3
+801,802,47,Male,Suburb,Home Appliances,12-03-2024,196.041177,Credit Card,1,0.209461812,FALSE,5,TRUE,New,5,West,52:10.3,System A,3
+802,803,59,Female,City,Electronics,13-03-2024,86.20195269,Debit Card,1,0.258636085,FALSE,2,FALSE,Returning,6,East,52:10.3,System A,3
+803,804,34,Female,Suburb,Clothing,14-03-2024,699.1945837,Credit Card,8,0.042106506,FALSE,3,TRUE,Returning,6,North,52:10.3,System A,3
+804,805,22,Female,Rural,Clothing,15-03-2024,388.9707768,Debit Card,3,0.492287948,FALSE,3,FALSE,New,2,East,52:10.3,System A,3
+805,806,46,Male,Suburb,Electronics,16-03-2024,823.6126371,Credit Card,1,0.333203652,FALSE,4,FALSE,Returning,6,West,52:10.3,System A,3
+806,807,21,Female,Suburb,Clothing,17-03-2024,662.915661,Debit Card,7,0.142702034,FALSE,4,FALSE,New,6,South,52:10.3,System A,3
+807,808,27,Male,Rural,Electronics,18-03-2024,798.279036,Cash,3,0.292904197,FALSE,5,FALSE,New,4,South,52:10.3,System A,3
+808,809,34,Female,City,Electronics,19-03-2024,279.226579,Debit Card,8,0.054741183,FALSE,2,FALSE,Returning,7,North,52:10.3,System A,3
+809,810,27,Male,Suburb,Clothing,20-03-2024,695.4353332,Credit Card,4,0.482918334,TRUE,3,FALSE,Returning,6,North,52:10.3,System A,3
+810,811,34,Female,Suburb,Electronics,21-03-2024,271.4213648,Cash,4,0.087392494,FALSE,2,FALSE,Returning,6,East,52:10.3,System A,3
+811,812,37,Male,Rural,Home Appliances,22-03-2024,939.6777947,Debit Card,5,0.324015159,FALSE,1,FALSE,Returning,3,East,52:10.3,System A,3
+812,813,41,Female,City,Home Appliances,23-03-2024,640.0105387,Cash,6,0.122727231,FALSE,2,FALSE,Returning,7,North,52:10.3,System A,3
+813,814,22,Male,Suburb,Clothing,24-03-2024,331.2666822,Debit Card,7,0.358780691,TRUE,1,FALSE,Returning,3,West,52:10.3,System A,3
+814,815,51,Male,Rural,Clothing,25-03-2024,276.8167437,Cash,4,0.388410684,FALSE,4,FALSE,Returning,1,East,52:10.3,System A,3
+815,816,23,Male,Suburb,Electronics,26-03-2024,199.0173192,Credit Card,8,0.336709864,FALSE,4,TRUE,Returning,1,South,52:10.3,System A,3
+816,817,19,Male,Rural,Electronics,27-03-2024,697.6945493,Debit Card,6,0.30724973,FALSE,5,FALSE,New,6,South,52:10.3,System A,3
+817,818,30,Female,City,Electronics,28-03-2024,226.5284569,Debit Card,1,0.446234547,FALSE,2,FALSE,New,6,West,52:10.3,System A,3
+818,819,60,Female,City,Electronics,29-03-2024,599.3502333,Credit Card,1,0.039313355,FALSE,2,FALSE,Returning,2,North,52:10.3,System A,3
+819,820,60,Male,City,Home Appliances,30-03-2024,271.9886767,Cash,9,0.165457383,TRUE,1,FALSE,Returning,1,East,52:10.3,System A,3
+820,821,28,Female,City,Home Appliances,31-03-2024,665.3492553,Credit Card,6,0.12414374,FALSE,4,FALSE,New,4,South,52:10.3,System A,3
+821,822,64,Male,Suburb,Clothing,01-04-2024,816.7903313,Credit Card,8,0.494006981,FALSE,1,FALSE,Returning,6,North,52:10.3,System A,4
+822,823,40,Male,Suburb,Electronics,02-04-2024,780.2449907,Cash,7,0.19469489,FALSE,4,TRUE,New,4,East,52:10.3,System A,4
+823,824,33,Female,City,Electronics,03-04-2024,763.2428176,Credit Card,6,0.36630635,FALSE,1,TRUE,Returning,6,West,52:10.3,System A,4
+824,825,48,Male,City,Clothing,04-04-2024,195.8451816,Debit Card,4,0.342362582,FALSE,4,TRUE,New,4,South,52:10.3,System A,4
+825,826,28,Male,City,Electronics,05-04-2024,97.50109751,Debit Card,7,0.106040619,FALSE,1,FALSE,Returning,5,West,52:10.3,System A,4
+826,827,33,Female,Suburb,Electronics,06-04-2024,701.9593402,Debit Card,9,0.11949884,FALSE,4,FALSE,Returning,4,West,52:10.3,System A,4
+827,828,25,Male,City,Electronics,07-04-2024,374.6637417,Credit Card,7,0.140642282,FALSE,1,FALSE,New,7,West,52:10.3,System A,4
+828,829,21,Male,City,Electronics,08-04-2024,438.0227641,Debit Card,1,0.205563639,FALSE,2,FALSE,Returning,1,East,52:10.3,System A,4
+829,830,57,Male,City,Electronics,09-04-2024,40.83760187,Debit Card,9,0.117162533,FALSE,5,FALSE,Returning,6,West,52:10.3,System A,4
+830,831,21,Male,Rural,Clothing,10-04-2024,266.9806848,Debit Card,4,0.009825741,FALSE,1,FALSE,New,1,East,52:10.3,System A,4
+831,832,42,Female,City,Electronics,11-04-2024,43.33963984,Debit Card,3,0.439696528,TRUE,5,FALSE,New,7,East,52:10.3,System A,4
+832,833,20,Female,Rural,Clothing,12-04-2024,880.3939149,Debit Card,4,0.482804916,FALSE,2,FALSE,New,7,West,52:10.3,System A,4
+833,834,49,Female,Rural,Electronics,13-04-2024,250.9627164,Debit Card,4,0.170785194,FALSE,2,FALSE,Returning,4,West,52:10.3,System A,4
+834,835,20,Male,City,Home Appliances,14-04-2024,561.7637979,Credit Card,2,0.16925344,FALSE,4,TRUE,Returning,3,North,52:10.3,System A,4
+835,836,44,Male,Rural,Home Appliances,15-04-2024,48.58952745,Debit Card,1,0.003545906,FALSE,5,FALSE,New,3,South,52:10.3,System A,4
+836,837,46,Female,City,Home Appliances,16-04-2024,670.1789174,Debit Card,1,0.340125344,FALSE,3,FALSE,Returning,7,North,52:10.3,System A,4
+837,838,49,Male,Suburb,Home Appliances,17-04-2024,329.7970723,Cash,8,0.412719948,TRUE,4,TRUE,New,3,South,52:10.3,System A,4
+838,839,36,Male,Suburb,Clothing,18-04-2024,898.9399951,Credit Card,2,0.07330415,FALSE,5,FALSE,Returning,6,South,52:10.3,System A,4
+839,840,38,Male,Suburb,Clothing,19-04-2024,889.237007,Credit Card,5,0.079833175,FALSE,1,FALSE,New,2,North,52:10.3,System A,4
+840,841,22,Male,Suburb,Electronics,20-04-2024,332.0377122,Credit Card,4,0.395041625,FALSE,1,FALSE,Returning,5,North,52:10.3,System A,4
+841,842,35,Female,Rural,Home Appliances,21-04-2024,901.9512867,Credit Card,8,0.308145374,TRUE,2,TRUE,Returning,4,South,52:10.3,System A,4
+842,843,45,Female,City,Clothing,22-04-2024,996.1960968,Debit Card,2,0.022430279,FALSE,3,FALSE,Returning,2,South,52:10.3,System A,4
+843,844,59,Female,City,Electronics,23-04-2024,827.1615075,Debit Card,9,0.311273495,FALSE,1,FALSE,Returning,3,South,52:10.3,System A,4
+844,845,39,Male,City,Electronics,24-04-2024,846.4226343,Cash,7,0.154458861,FALSE,5,TRUE,Returning,4,East,52:10.3,System A,4
+845,846,38,Female,Suburb,Clothing,25-04-2024,256.5186487,Cash,7,0.184362578,FALSE,5,FALSE,New,2,South,52:10.3,System A,4
+846,847,23,Female,Suburb,Home Appliances,26-04-2024,580.9353749,Credit Card,1,0.384865709,FALSE,1,TRUE,Returning,1,West,52:10.3,System A,4
+847,848,18,Male,City,Electronics,27-04-2024,76.58335483,Cash,2,0.405467596,FALSE,5,TRUE,Returning,3,West,52:10.3,System A,4
+848,849,22,Male,Suburb,Home Appliances,28-04-2024,103.9687575,Cash,4,0.200178313,FALSE,5,TRUE,Returning,2,West,52:10.3,System A,4
+849,850,58,Female,City,Home Appliances,29-04-2024,998.9036859,Credit Card,4,0.473576468,FALSE,2,TRUE,Returning,6,North,52:10.3,System A,4
+850,851,29,Female,City,Home Appliances,30-04-2024,333.3728569,Credit Card,3,0.203231359,FALSE,3,FALSE,Returning,1,North,52:10.3,System A,4
+851,852,43,Female,City,Electronics,01-05-2024,750.7020729,Cash,7,0.385918018,FALSE,2,TRUE,Returning,3,North,52:10.3,System A,5
+852,853,63,Female,City,Home Appliances,02-05-2024,808.5984025,Debit Card,8,0.241938632,FALSE,3,FALSE,New,5,South,52:10.3,System A,5
+853,854,51,Male,City,Electronics,03-05-2024,859.4430383,Cash,2,0.448766163,FALSE,5,FALSE,Returning,7,West,52:10.3,System A,5
+854,855,31,Female,City,Home Appliances,04-05-2024,997.6520144,Cash,4,0.453880622,FALSE,3,FALSE,Returning,3,South,52:10.3,System A,5
+855,856,43,Female,City,Electronics,05-05-2024,249.0815204,Debit Card,3,0.043708404,FALSE,5,FALSE,Returning,6,East,52:10.3,System A,5
+856,857,62,Male,Suburb,Home Appliances,06-05-2024,49.94731859,Debit Card,2,0.468246666,FALSE,5,FALSE,Returning,5,East,52:10.3,System A,5
+857,858,44,Female,City,Clothing,07-05-2024,417.0796028,Credit Card,6,0.412767421,FALSE,2,FALSE,Returning,5,North,52:10.3,System A,5
+858,859,26,Male,City,Home Appliances,08-05-2024,138.7798631,Credit Card,4,0.395655357,FALSE,2,TRUE,New,5,East,52:10.3,System A,5
+859,860,43,Male,Suburb,Home Appliances,09-05-2024,32.20163027,Cash,6,0.10045567,FALSE,4,FALSE,Returning,4,West,52:10.3,System A,5
+860,861,64,Male,Suburb,Electronics,10-05-2024,366.8225589,Debit Card,2,0.402559604,TRUE,1,FALSE,Returning,4,East,52:10.3,System A,5
+861,862,39,Female,Suburb,Electronics,11-05-2024,785.9008686,Credit Card,4,0.425066367,FALSE,4,FALSE,Returning,7,North,52:10.3,System A,5
+862,863,64,Female,City,Home Appliances,12-05-2024,570.5188843,Cash,6,0.144575167,FALSE,4,TRUE,New,5,South,52:10.3,System A,5
+863,864,47,Male,Rural,Clothing,13-05-2024,319.6502093,Debit Card,5,0.476130039,FALSE,3,FALSE,New,7,East,52:10.3,System A,5
+864,865,60,Female,Rural,Clothing,14-05-2024,657.7985854,Cash,3,0.024930073,FALSE,5,FALSE,New,1,West,52:10.3,System A,5
+865,866,34,Female,Suburb,Electronics,15-05-2024,239.6979985,Credit Card,8,0.074954627,FALSE,5,FALSE,Returning,5,West,52:10.3,System A,5
+866,867,43,Male,Rural,Clothing,16-05-2024,24.23763161,Credit Card,7,0.268790569,FALSE,5,FALSE,Returning,2,West,52:10.3,System A,5
+867,868,53,Male,Suburb,Home Appliances,17-05-2024,766.7098526,Debit Card,3,0.287896236,TRUE,1,TRUE,New,5,South,52:10.3,System A,5
+868,869,18,Female,City,Electronics,18-05-2024,627.505654,Cash,6,0.322575042,FALSE,3,FALSE,Returning,4,West,52:10.3,System A,5
+869,870,25,Male,Rural,Home Appliances,19-05-2024,764.6795983,Debit Card,4,0.008484565,FALSE,3,TRUE,Returning,4,North,52:10.3,System A,5
+870,871,52,Female,City,Electronics,20-05-2024,48.54863652,Credit Card,5,0.480183387,FALSE,5,TRUE,Returning,2,North,52:10.3,System A,5
+871,872,32,Female,Rural,Electronics,21-05-2024,838.7484316,Credit Card,5,0.022294046,FALSE,4,FALSE,New,2,West,52:10.3,System A,5
+872,873,64,Female,City,Electronics,22-05-2024,623.330938,Cash,7,0.071530976,FALSE,1,TRUE,Returning,3,East,52:10.3,System A,5
+873,874,39,Female,Rural,Electronics,23-05-2024,567.7613972,Cash,5,0.007007259,FALSE,4,TRUE,New,1,West,52:10.3,System A,5
+874,875,31,Male,City,Clothing,24-05-2024,628.3679076,Cash,3,0.283429217,FALSE,2,TRUE,Returning,1,North,52:10.3,System A,5
+875,876,43,Male,City,Home Appliances,25-05-2024,865.7889144,Debit Card,5,0.466133442,FALSE,3,FALSE,New,1,North,52:10.3,System A,5
+876,877,45,Male,Rural,Home Appliances,26-05-2024,591.0671415,Cash,7,0.332973583,FALSE,3,FALSE,Returning,6,North,52:10.3,System A,5
+877,878,40,Male,City,Home Appliances,27-05-2024,585.1408761,Cash,5,0.411328734,TRUE,4,FALSE,Returning,4,East,52:10.3,System A,5
+878,879,31,Female,City,Electronics,28-05-2024,990.7723655,Credit Card,5,0.006640602,FALSE,1,FALSE,New,1,East,52:10.3,System A,5
+879,880,41,Female,City,Clothing,29-05-2024,759.1628654,Credit Card,9,0.271007649,FALSE,3,TRUE,New,3,East,52:10.3,System A,5
+880,881,19,Male,Rural,Home Appliances,30-05-2024,447.8708674,Cash,3,0.229781489,FALSE,4,FALSE,Returning,3,North,52:10.3,System A,5
+881,882,62,Female,Rural,Clothing,31-05-2024,710.32303,Cash,6,0.249483972,TRUE,1,FALSE,Returning,1,South,52:10.3,System A,5
+882,883,43,Female,City,Electronics,01-06-2024,395.338167,Credit Card,1,0.036106593,FALSE,4,FALSE,Returning,2,West,52:10.3,System A,6
+883,884,31,Female,City,Home Appliances,02-06-2024,236.5867079,Cash,5,0.342217681,FALSE,1,TRUE,New,3,West,52:10.3,System A,6
+884,885,24,Male,Rural,Clothing,03-06-2024,600.8833581,Debit Card,8,0.251610207,FALSE,5,TRUE,New,7,North,52:10.3,System A,6
+885,886,20,Male,Rural,Electronics,04-06-2024,928.9002771,Debit Card,5,0.382574425,FALSE,1,FALSE,Returning,2,East,52:10.3,System A,6
+886,887,64,Male,City,Clothing,05-06-2024,929.8481248,Debit Card,9,0.242645317,FALSE,2,FALSE,New,7,South,52:10.3,System A,6
+887,888,40,Female,City,Home Appliances,06-06-2024,348.4862253,Cash,6,0.074690818,FALSE,5,FALSE,Returning,4,South,52:10.3,System A,6
+888,889,63,Male,City,Home Appliances,07-06-2024,532.4006916,Credit Card,8,0.324128477,TRUE,4,FALSE,New,6,East,52:10.3,System A,6
+889,890,60,Male,Suburb,Electronics,08-06-2024,219.5195396,Cash,8,0.086193181,FALSE,5,TRUE,Returning,3,West,52:10.3,System A,6
+890,891,64,Male,Rural,Electronics,09-06-2024,995.6747984,Cash,3,0.436197282,FALSE,5,FALSE,New,2,West,52:10.3,System A,6
+891,892,62,Male,Suburb,Electronics,10-06-2024,981.3067288,Credit Card,7,0.30655812,FALSE,4,FALSE,New,7,South,52:10.3,System A,6
+892,893,35,Male,Rural,Clothing,11-06-2024,653.0138404,Credit Card,7,0.078601942,FALSE,4,TRUE,Returning,1,South,52:10.3,System A,6
+893,894,55,Male,Rural,Clothing,12-06-2024,806.3699191,Credit Card,6,0.481169029,FALSE,2,TRUE,Returning,7,East,52:10.3,System A,6
+894,895,52,Female,Rural,Clothing,13-06-2024,717.9491597,Debit Card,7,0.259182732,FALSE,4,TRUE,New,7,West,52:10.3,System A,6
+895,896,32,Female,Rural,Electronics,14-06-2024,597.2266368,Cash,2,0.036449226,TRUE,3,TRUE,New,4,South,52:10.3,System A,6
+896,897,42,Male,Rural,Home Appliances,15-06-2024,62.81451702,Credit Card,9,0.313416452,FALSE,3,FALSE,New,5,West,52:10.3,System A,6
+897,898,54,Male,Rural,Home Appliances,16-06-2024,460.2166991,Cash,1,0.126599454,FALSE,2,FALSE,Returning,5,South,52:10.3,System A,6
+898,899,45,Female,Rural,Clothing,17-06-2024,678.0384391,Debit Card,1,0.401846726,FALSE,1,FALSE,Returning,1,East,52:10.3,System A,6
+899,900,27,Female,Suburb,Clothing,18-06-2024,680.7562977,Debit Card,3,0.408911037,FALSE,1,FALSE,New,4,West,52:10.3,System A,6
+900,901,56,Male,City,Home Appliances,19-06-2024,379.3913922,Credit Card,3,0.489473678,FALSE,3,FALSE,Returning,4,South,52:10.3,System A,6
+901,902,34,Male,City,Home Appliances,20-06-2024,942.2750668,Credit Card,1,0.250934766,FALSE,4,FALSE,Returning,4,South,52:10.3,System A,6
+902,903,56,Male,Suburb,Clothing,21-06-2024,175.6834619,Cash,7,0.22747844,FALSE,2,TRUE,Returning,4,South,52:10.3,System A,6
+903,904,39,Male,Suburb,Clothing,22-06-2024,505.3558518,Credit Card,4,0.376737803,FALSE,1,FALSE,Returning,5,South,52:10.3,System A,6
+904,905,43,Female,Suburb,Home Appliances,23-06-2024,693.9751368,Cash,2,0.066235328,FALSE,1,FALSE,New,2,East,52:10.3,System A,6
+905,906,61,Male,Suburb,Electronics,24-06-2024,700.1644478,Credit Card,5,0.273457757,TRUE,5,TRUE,New,4,West,52:10.3,System A,6
+906,907,42,Male,Rural,Clothing,25-06-2024,652.1525672,Cash,6,0.2731238,FALSE,3,FALSE,New,2,West,52:10.3,System A,6
+907,908,34,Male,City,Home Appliances,26-06-2024,282.5353313,Cash,9,0.044736561,FALSE,4,FALSE,Returning,7,North,52:10.3,System A,6
+908,909,30,Male,Rural,Home Appliances,27-06-2024,164.644503,Cash,4,0.208992043,FALSE,2,FALSE,Returning,7,West,52:10.3,System A,6
+909,910,37,Female,City,Home Appliances,28-06-2024,639.5809236,Cash,2,0.426642399,FALSE,1,TRUE,Returning,4,North,52:10.3,System A,6
+910,911,42,Female,City,Home Appliances,29-06-2024,603.309095,Debit Card,5,0.428076811,FALSE,5,FALSE,New,3,South,52:10.3,System A,6
+911,912,21,Female,Suburb,Electronics,30-06-2024,187.5624502,Cash,3,0.049618832,FALSE,3,FALSE,Returning,6,East,52:10.3,System A,6
+912,913,27,Male,Rural,Home Appliances,01-07-2024,708.0877541,Credit Card,2,0.045360441,FALSE,3,TRUE,New,3,East,52:10.3,System A,7
+913,914,20,Male,Suburb,Clothing,02-07-2024,460.6202718,Debit Card,1,0.131347739,FALSE,2,TRUE,New,7,South,52:10.3,System A,7
+914,915,58,Female,Rural,Electronics,03-07-2024,671.0829857,Debit Card,2,0.437383031,TRUE,1,FALSE,Returning,6,North,52:10.3,System A,7
+915,916,62,Male,City,Home Appliances,04-07-2024,838.993409,Cash,6,0.064451293,FALSE,2,TRUE,New,3,South,52:10.3,System A,7
+916,917,35,Male,Suburb,Electronics,05-07-2024,178.0311443,Debit Card,8,0.359998401,FALSE,2,FALSE,New,4,East,52:10.3,System A,7
+917,918,64,Female,Suburb,Clothing,06-07-2024,28.95341932,Cash,3,0.05058281,FALSE,5,FALSE,Returning,2,East,52:10.3,System A,7
+918,919,53,Female,City,Home Appliances,07-07-2024,781.3115605,Credit Card,9,0.311568927,FALSE,3,TRUE,New,6,West,52:10.3,System A,7
+919,920,64,Female,City,Clothing,08-07-2024,613.6004509,Cash,9,0.17803365,FALSE,4,TRUE,New,5,North,52:10.3,System A,7
+920,921,39,Female,City,Home Appliances,09-07-2024,702.6431739,Debit Card,2,0.394456981,FALSE,3,FALSE,New,1,West,52:10.3,System A,7
+921,922,51,Male,Suburb,Home Appliances,10-07-2024,839.7734252,Credit Card,8,0.116845224,FALSE,3,TRUE,Returning,6,East,52:10.3,System A,7
+922,923,64,Male,Rural,Home Appliances,11-07-2024,804.7828255,Cash,5,0.319600915,FALSE,5,TRUE,Returning,6,East,52:10.3,System A,7
+923,924,25,Female,Suburb,Home Appliances,12-07-2024,961.3109455,Credit Card,4,0.117841267,FALSE,4,FALSE,New,5,West,52:10.3,System A,7
+924,925,57,Male,Rural,Home Appliances,13-07-2024,540.5757281,Credit Card,5,0.356830142,FALSE,1,FALSE,Returning,4,West,52:10.3,System A,7
+925,926,61,Female,Suburb,Electronics,14-07-2024,493.6106763,Debit Card,4,0.436839017,FALSE,4,FALSE,New,3,East,52:10.3,System A,7
+926,927,36,Female,Suburb,Home Appliances,15-07-2024,407.8683279,Credit Card,8,0.0634009,FALSE,1,TRUE,Returning,3,West,52:10.3,System A,7
+927,928,59,Male,City,Home Appliances,16-07-2024,162.1541324,Debit Card,4,0.433297844,FALSE,4,FALSE,Returning,7,West,52:10.3,System A,7
+928,929,58,Female,Rural,Electronics,17-07-2024,576.8811606,Credit Card,6,0.296787627,FALSE,2,FALSE,Returning,2,North,52:10.3,System A,7
+929,930,54,Male,Suburb,Electronics,18-07-2024,284.2423991,Cash,2,0.063555245,FALSE,4,FALSE,Returning,4,East,52:10.3,System A,7
+930,931,23,Male,Suburb,Electronics,19-07-2024,922.0944371,Credit Card,5,0.213770928,FALSE,5,FALSE,Returning,5,South,52:10.3,System A,7
+931,932,43,Male,City,Electronics,20-07-2024,587.3588962,Cash,6,0.080430147,FALSE,1,TRUE,Returning,4,North,52:10.3,System A,7
+932,933,51,Male,City,Electronics,21-07-2024,596.9117787,Cash,5,0.350173944,FALSE,3,FALSE,Returning,4,South,52:10.3,System A,7
+933,934,62,Female,Rural,Electronics,22-07-2024,361.3754143,Credit Card,2,0.379434067,FALSE,5,FALSE,Returning,3,West,52:10.3,System A,7
+934,935,23,Male,Suburb,Home Appliances,23-07-2024,61.46945846,Cash,7,0.05289826,FALSE,1,FALSE,New,5,West,52:10.3,System A,7
+935,936,54,Female,Rural,Home Appliances,24-07-2024,41.42632772,Credit Card,4,0.253069926,TRUE,1,FALSE,New,1,South,52:10.3,System A,7
+936,937,50,Female,Suburb,Clothing,25-07-2024,429.1017927,Credit Card,8,0.407312528,FALSE,3,FALSE,New,6,West,52:10.3,System A,7
+937,938,39,Female,Rural,Home Appliances,26-07-2024,93.71972432,Cash,7,0.468081521,FALSE,2,TRUE,New,3,West,52:10.3,System A,7
+938,939,38,Female,City,Home Appliances,27-07-2024,610.778486,Cash,7,0.256758933,FALSE,5,FALSE,Returning,5,North,52:10.3,System A,7
+939,940,23,Male,Suburb,Electronics,28-07-2024,882.1632756,Debit Card,9,0.475139612,FALSE,3,TRUE,Returning,2,South,52:10.3,System A,7
+940,941,23,Male,Rural,Electronics,29-07-2024,884.0856684,Cash,1,0.267844485,FALSE,3,FALSE,Returning,6,North,52:10.3,System A,7
+941,942,21,Female,City,Home Appliances,30-07-2024,662.454956,Debit Card,6,0.197095247,FALSE,2,FALSE,New,6,South,52:10.3,System A,7
+942,943,47,Female,City,Clothing,31-07-2024,219.1195132,Cash,6,0.424101564,FALSE,5,FALSE,New,3,North,52:10.3,System A,7
+943,944,28,Male,Rural,Electronics,01-08-2024,864.366863,Credit Card,6,0.246491355,FALSE,3,TRUE,Returning,7,East,52:10.3,System A,8
+944,945,47,Female,Suburb,Home Appliances,02-08-2024,887.232501,Cash,6,0.235951255,FALSE,2,FALSE,New,2,East,52:10.3,System A,8
+945,946,48,Male,Suburb,Home Appliances,03-08-2024,204.6870491,Credit Card,7,0.245156245,FALSE,5,FALSE,New,3,South,52:10.3,System A,8
+946,947,41,Female,City,Clothing,04-08-2024,740.0518249,Credit Card,6,0.423392501,FALSE,4,FALSE,Returning,4,East,52:10.3,System A,8
+947,948,26,Male,Suburb,Clothing,05-08-2024,293.6543534,Credit Card,1,0.415970771,FALSE,1,TRUE,Returning,7,North,52:10.3,System A,8
+948,949,20,Female,Suburb,Electronics,06-08-2024,804.6139092,Debit Card,3,0.201759996,FALSE,2,FALSE,Returning,5,South,52:10.3,System A,8
+949,950,48,Female,Suburb,Clothing,07-08-2024,997.2655209,Cash,2,0.16664993,FALSE,1,TRUE,Returning,2,East,52:10.3,System A,8
+950,951,57,Male,City,Home Appliances,08-08-2024,39.72574528,Credit Card,6,0.245964012,FALSE,4,TRUE,Returning,6,East,52:10.3,System A,8
+951,952,54,Female,Rural,Home Appliances,09-08-2024,898.3922071,Credit Card,8,0.286386255,FALSE,3,TRUE,Returning,3,South,52:10.3,System A,8
+952,953,53,Female,Suburb,Clothing,10-08-2024,626.4042283,Debit Card,3,0.119168605,FALSE,3,TRUE,Returning,6,East,52:10.3,System A,8
+953,954,41,Male,City,Clothing,11-08-2024,973.648793,Cash,8,0.396977542,FALSE,5,FALSE,New,2,East,52:10.3,System A,8
+954,955,48,Female,City,Clothing,12-08-2024,470.3594224,Cash,8,0.243241383,TRUE,2,FALSE,Returning,6,South,52:10.3,System A,8
+955,956,23,Male,Rural,Clothing,13-08-2024,848.9140513,Debit Card,5,0.167022774,FALSE,2,FALSE,New,3,East,52:10.3,System A,8
+956,957,19,Male,Suburb,Electronics,14-08-2024,71.77012791,Debit Card,8,0.053410496,FALSE,5,TRUE,New,7,East,52:10.3,System A,8
+957,958,37,Female,Suburb,Clothing,15-08-2024,341.9262596,Cash,6,0.11942258,FALSE,1,FALSE,Returning,3,East,52:10.3,System A,8
+958,959,45,Female,Rural,Electronics,16-08-2024,76.34637237,Debit Card,5,0.474640586,FALSE,3,FALSE,Returning,1,East,52:10.3,System A,8
+959,960,28,Female,Rural,Home Appliances,17-08-2024,975.5897021,Cash,9,0.152549843,FALSE,3,TRUE,Returning,6,West,52:10.3,System A,8
+960,961,21,Female,City,Clothing,18-08-2024,818.8041682,Cash,7,0.084429645,FALSE,2,FALSE,Returning,1,South,52:10.3,System A,8
+961,962,32,Female,City,Electronics,19-08-2024,854.021947,Credit Card,8,0.230336396,TRUE,2,FALSE,Returning,7,West,52:10.3,System A,8
+962,963,23,Female,Rural,Clothing,20-08-2024,938.5855791,Credit Card,1,0.153543872,FALSE,5,FALSE,Returning,1,West,52:10.3,System A,8
+963,964,47,Female,Suburb,Home Appliances,21-08-2024,94.25245126,Cash,2,0.017579625,FALSE,4,FALSE,Returning,6,North,52:10.3,System A,8
+964,965,55,Male,City,Home Appliances,22-08-2024,391.7416166,Cash,8,0.161572609,FALSE,1,FALSE,New,2,West,52:10.3,System A,8
+965,966,19,Female,City,Home Appliances,23-08-2024,80.32454015,Cash,9,0.272054312,FALSE,4,TRUE,New,4,West,52:10.3,System A,8
+966,967,32,Male,Suburb,Clothing,24-08-2024,218.6851705,Cash,4,0.275856186,FALSE,4,FALSE,Returning,7,North,52:10.3,System A,8
+967,968,28,Female,City,Clothing,25-08-2024,237.0721193,Cash,9,0.178279461,FALSE,2,TRUE,New,3,East,52:10.3,System A,8
+968,969,25,Female,Suburb,Electronics,26-08-2024,474.4161389,Cash,4,0.223651378,FALSE,2,FALSE,Returning,5,East,52:10.3,System A,8
+969,970,43,Male,Suburb,Home Appliances,27-08-2024,275.8765458,Debit Card,9,0.482758959,FALSE,2,FALSE,Returning,7,West,52:10.3,System A,8
+970,971,62,Female,Suburb,Clothing,28-08-2024,109.9683257,Cash,7,0.188674239,FALSE,4,FALSE,Returning,1,North,52:10.3,System A,8
+971,972,61,Female,Rural,Home Appliances,29-08-2024,175.8161782,Debit Card,2,0.129113407,FALSE,1,FALSE,Returning,2,East,52:10.3,System A,8
+972,973,22,Male,Rural,Home Appliances,30-08-2024,155.8028079,Debit Card,9,0.121733522,FALSE,2,FALSE,Returning,6,North,52:10.3,System A,8
+973,974,23,Female,Rural,Electronics,31-08-2024,973.3460299,Cash,4,0.228882306,TRUE,3,TRUE,New,2,South,52:10.3,System A,8
+974,975,43,Female,Suburb,Electronics,01-09-2024,761.6995818,Cash,8,0.379760074,FALSE,1,FALSE,New,2,South,52:10.3,System A,9
+975,976,21,Female,Suburb,Electronics,02-09-2024,968.0838506,Debit Card,7,0.102994092,FALSE,3,FALSE,New,6,South,52:10.3,System A,9
+976,977,36,Male,Rural,Electronics,03-09-2024,445.3430816,Debit Card,7,0.354648064,FALSE,1,FALSE,Returning,5,South,52:10.3,System A,9
+977,978,37,Female,City,Home Appliances,04-09-2024,285.5847968,Cash,8,0.010574912,TRUE,2,FALSE,New,6,West,52:10.3,System A,9
+978,979,50,Female,Suburb,Electronics,05-09-2024,800.3102652,Cash,1,0.209466489,TRUE,5,TRUE,Returning,5,South,52:10.3,System A,9
+979,980,37,Female,City,Electronics,06-09-2024,332.9913789,Debit Card,5,0.387932533,FALSE,2,TRUE,Returning,6,South,52:10.3,System A,9
+980,981,29,Female,City,Electronics,07-09-2024,306.38954,Debit Card,2,0.169366478,FALSE,4,FALSE,New,1,North,52:10.3,System A,9
+981,982,64,Male,Suburb,Electronics,08-09-2024,240.1809323,Debit Card,2,0.281868551,FALSE,4,FALSE,New,5,East,52:10.3,System A,9
+982,983,18,Male,Suburb,Home Appliances,09-09-2024,138.3821884,Credit Card,1,0.102489616,FALSE,1,TRUE,Returning,1,North,52:10.3,System A,9
+983,984,43,Female,City,Electronics,10-09-2024,263.8984304,Debit Card,5,0.370997696,FALSE,4,FALSE,Returning,7,West,52:10.3,System A,9
+984,985,31,Female,City,Home Appliances,11-09-2024,361.766551,Credit Card,2,0.026139552,FALSE,2,FALSE,Returning,5,South,52:10.3,System A,9
+985,986,55,Male,Rural,Clothing,12-09-2024,677.2542661,Cash,4,0.426271322,TRUE,3,TRUE,Returning,5,East,52:10.3,System A,9
+986,987,54,Male,Rural,Home Appliances,13-09-2024,71.9391938,Cash,3,0.099098193,FALSE,2,FALSE,Returning,6,East,52:10.3,System A,9
+987,988,28,Female,Suburb,Home Appliances,14-09-2024,218.4018703,Debit Card,3,0.437199016,FALSE,1,FALSE,Returning,5,South,52:10.3,System A,9
+988,989,53,Male,Rural,Electronics,15-09-2024,810.9334039,Cash,2,0.176264621,TRUE,4,FALSE,Returning,1,South,52:10.3,System A,9
+989,990,30,Female,Rural,Clothing,16-09-2024,155.4527043,Cash,6,0.361341787,FALSE,3,FALSE,Returning,7,West,52:10.3,System A,9
+990,991,60,Male,Rural,Clothing,17-09-2024,349.2186951,Cash,2,0.159612649,FALSE,5,FALSE,New,6,West,52:10.3,System A,9
+991,992,20,Male,Rural,Clothing,18-09-2024,866.0123326,Cash,8,0.452955836,FALSE,3,FALSE,Returning,3,South,52:10.3,System A,9
+992,993,50,Male,City,Clothing,19-09-2024,163.376058,Credit Card,8,0.063318563,FALSE,3,TRUE,New,7,South,52:10.3,System A,9
+993,994,23,Male,Suburb,Home Appliances,20-09-2024,91.90946726,Credit Card,5,0.089259895,TRUE,2,TRUE,New,7,South,52:10.3,System A,9
+994,995,27,Female,Rural,Clothing,21-09-2024,489.6926151,Debit Card,7,0.246515063,TRUE,5,FALSE,New,1,South,52:10.3,System A,9
+995,996,22,Male,City,Home Appliances,22-09-2024,309.3953162,Debit Card,4,0.04096922,FALSE,1,FALSE,Returning,7,East,52:10.3,System A,9
+996,997,40,Male,City,Home Appliances,23-09-2024,567.7742808,Debit Card,1,0.097990092,FALSE,1,TRUE,New,3,West,52:10.3,System A,9
+997,998,27,Female,City,Home Appliances,24-09-2024,805.7668416,Cash,2,0.471883191,FALSE,3,FALSE,New,2,South,52:10.3,System A,9
+998,999,61,Male,Rural,Clothing,25-09-2024,145.7770033,Cash,4,0.488244831,FALSE,3,TRUE,Returning,6,South,52:10.3,System A,9
+999,1000,19,Male,Rural,Electronics,26-09-2024,584.8920937,Credit Card,1,0.188129665,FALSE,4,FALSE,Returning,2,East,52:10.3,System A,9
